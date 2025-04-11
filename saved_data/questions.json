@@ -1,0 +1,4070 @@
+[
+  {
+    "chunk_id": 1,
+    "question": "What was the location of the first pad abort of the mission?",
+    "answer": "White Sands Missile Range",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 1,
+    "question": "In which year was the nominal launch and exit environment test conducted at Cape Kennedy, Florida?",
+    "answer": "1964",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What was the date of the first pad abort of the Mission Spacecraft?",
+    "answer": "Nov. 7, 1963",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Who was the Manager, Apollo Spacecraft Program in May 1970?",
+    "answer": "James A. MeDivitt Colonel, USAF",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What was the time when the command module was completely powered down?",
+    "answer": "58 hours 40 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What was the remaining energy of the batteries at landing?",
+    "answer": "29 ampere-hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What was the initial battery capacity of the three entry batteries in the command module?",
+    "answer": "99 ampere-hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How much oxygen was available in the surge tank after the incident?",
+    "answer": "3.77 pounds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How much energy remained in the lunar module batteries at the time of undocking?",
+    "answer": "410 ampere hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What was the estimated total energy transferred to the command module?",
+    "answer": "Approximately 129 ampere hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What was the total oxygen supply available after the incident, excluding the surge tank and repressurization bottles?",
+    "answer": "3.77 pounds in the surge tank and 1 pound in each of the three repressurization bottles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How much water was used by the crew during the abort phase?",
+    "answer": "Approximately 14 pounds.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What was the estimated total energy transferred to the command module?",
+    "answer": "Approximately 129 ampere hours.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What was the magnitude of the negative field detected at T plus 40 seconds?",
+    "answer": "Approximately minus 3000 volts/meter.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What was the source of the sporadic signals recorded at site 5 during the afternoon of launch day?",
+    "answer": "Lightning in a cold front that was stalled some distance to the northwest of the launch site.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What was the equilibrium potential for a conventional jet aircraft?",
+    "answer": "A million volts.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What was the possible source of the sporadic signals recorded during the afternoon of the launch day of the Apollo 13 vehicle?",
+    "answer": "Lightning in a cold front which was stalled some distance to the northwest of the launch site.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What was the equilibrium potential for a conventional jet aircraft?",
+    "answer": "A million volts.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the typical equilibrium potential for a conventional jet aircraft?",
+    "answer": "A million volts.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What might be the equilibrium potential for the Saturn V launch vehicle?",
+    "answer": "On the order of a million volts or more.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What was the title of the first supplement?",
+    "answer": "Trajectory Reconstruction and Analysis",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Who approved the report?",
+    "answer": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION MANNED SPACECRAFT CENTER HOUSTON, TEXAS",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the name of the document that evaluates the performance of the Lunar Module Reaction Control System?",
+    "answer": "Performance of Lunar Module Reaction Control System Review",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 12,
+    "question": "In what year was the Apollo ll Preliminary Science Report Communications System Performance Entry Postflight Analysis conducted?",
+    "answer": "December 1969",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What was the name of the organization that approved the mission evaluation report?",
+    "answer": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION MANNED SPACECRAFT CENTER",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What was the location of the National Aeronautics and Space Administration Manned Spacecraft Center?",
+    "answer": "HOUSTON, TEXAS",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What is the section that discusses the performance of the command and service module?",
+    "answer": "5.0",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What is the section that deals with the assessment of mission objectives?",
+    "answer": "12.0",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 15,
+    "question": "What was the reason for the Apollo 13 mission being aborted?",
+    "answer": "An abrupt loss of service module cryogenic oxygen associated with a fire in one of the two tanks.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 15,
+    "question": "What was the lunar module used for after the mission was aborted?",
+    "answer": "Providing power and life support until transfer to the command module just prior to entry.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What was the reason for the Apollo 13 mission being aborted?",
+    "answer": "An abrupt loss of service module cryogenic oxygen associated with a fire in one of the two tanks.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What was the role of the lunar module during the Apollo 13 mission?",
+    "answer": "The lunar module provided power and life support until transfer to the command module just prior to entry.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What was the reason for the Apollo l3 mission being aborted?",
+    "answer": "An abrupt loss of service module cryogenic oxygen associated with a fire in one of the two tanks.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 17,
+    "question": "Who were the crew members of the Apollo l3 mission?",
+    "answer": "James A. Lovell, Fred W. Haise, Jr., and John L. Swigert, Jr.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What was the reason for substituting the Command Module Pilot in the Apollo 13 crew two days before launch?",
+    "answer": "He was exposed and found susceptible to rubella (German measles).",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What was the purpose of the S-IVB after the spacecraft was ejected?",
+    "answer": "To impact on the lunar surface and provide seismological data.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 19,
+    "question": "What was the primary mission objective of Apollo 13?",
+    "answer": "A precise lunar landing to conduct scientific exploration of deep-rooted surface material.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 19,
+    "question": "Where did the crew land?",
+    "answer": "21 degrees 38 minutes 24 seconds south latitude and 165 degrees 21 minutes 42 seconds west longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What was the primary mission objective of Apollo 13?",
+    "answer": "A precise lunar landing to conduct scientific exploration of deep-rooted surface material.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 20,
+    "question": "Why was a complete analysis of all flight data not possible in the report?",
+    "answer": "Because of the time allotted for preparation of this report.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What was the time of the lunar module's jettison?",
+    "answer": "1 hour before entry",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What was the primary mission objective of Apollo 13?",
+    "answer": "A precise lunar landing to conduct scientific exploration of deep-rooted surface material",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What was the reason for the Apollo 13 mission being aborted?",
+    "answer": "A sudden loss of pressure at approximately 56 hours from one of the two service module cryogenic oxygen tanks in bay 4.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What was the purpose of the S-IVB impact on the lunar surface?",
+    "answer": "To provide seismological data sensed by the instrument left on the moon during Apollo 12.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 23,
+    "question": "What was the reason for the Apollo 13 mission being aborted?",
+    "answer": "A sudden loss of pressure at approximately 56 hours from one of the two service module cryogenic oxygen tanks in bay 4.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 23,
+    "question": "What was the purpose of the S-IVB impact in the Apollo 13 mission?",
+    "answer": "To provide seismological data sensed by the instrument left on the moon during Apollo 12.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 24,
+    "question": "What was the primary reason for the Apollo 13 mission being aborted?",
+    "answer": "A sudden loss of pressure at approximately 56 hours from one of the two service module cryogenic oxygen tanks in bay 4.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 24,
+    "question": "What was the planned landing location for the lunar module in the emergency mode?",
+    "answer": "The Indian Ocean.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What was the time of the cryogenic oxygen tank incident?",
+    "answer": "04:01:01",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What was the time of the first midcourse correction (service propulsion)?",
+    "answer": "00:02:44",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What was the planned landing location of the spacecraft after the transearth injection maneuver?",
+    "answer": "The South Pacific",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What system was used to perform the transearth injection maneuver?",
+    "answer": "The descent propulsion system",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What was the time allocated for the lunar module to provide maximum electrical power in the command module for entry?",
+    "answer": "4-3/4 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What system was used to separate the command module from the service module?",
+    "answer": "Lunar module reaction control system",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 28,
+    "question": "What was the time of landing for the spacecraft in the South Pacific?",
+    "answer": "About 143 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 28,
+    "question": "Where did the lunar module impact after entering the atmosphere?",
+    "answer": "Between Samoa and New Zealand",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 29,
+    "question": "How long before entry was the service module separated from the command module?",
+    "answer": "4-3/4 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 29,
+    "question": "Where did the lunar module, including the radioisotope thermoelectric fuel capsule, impact after re-entering the atmosphere?",
+    "answer": "The open sea between Samoa and New Zealand",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 30,
+    "question": "What was the method used to separate the command module and the lunar module after undocking?",
+    "answer": "The escaping tunnel pressure provided the necessary separation velocity between the two spacecraft.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 30,
+    "question": "Where did the lunar module, including the radioisotope thermoelectric fuel capsule, impact after re-entering the Earth's atmosphere?",
+    "answer": "The open sea between Samoa and New Zealand at 25.5 degrees south latitude and 176 degrees west longitude.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 31,
+    "question": "What was the reason for the first abort in the Apollo program?",
+    "answer": "Apollo 13 presented the first situation in which real-time determination of immediate abort requirements was necessary.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 31,
+    "question": "What was the method used to determine the actual trajectory information after the spacecraft and S-IVB separated?",
+    "answer": "The actual trajectory information was determined from the best estimated trajectory generated from tracking and telemetry data.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What caused the S-II engine to cut off 132 seconds early during the second stage boost into the planned 100-mile circular parking orbit?",
+    "answer": "The center engine cut off 132 seconds early.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What was the actual parking orbit velocity of the space vehicle after S-II boost?",
+    "answer": "223 ft/sec lower than planned.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 33,
+    "question": "What was the reason for the S-II boost into the planned 100-mile circular parking orbit to cut off about 132 seconds early?",
+    "answer": "The center engine cut off about 132 seconds early.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 33,
+    "question": "What was the achieved pericynthion altitude at translunar injection?",
+    "answer": "415.8 miles",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 34,
+    "question": "How long did the S-II boost burn approximately 34 seconds longer than predicted?",
+    "answer": "34 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 34,
+    "question": "What was the achieved pericynthion altitude at translunar injection?",
+    "answer": "415.8 miles",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What was the achieved pericynthion altitude at translunar injection?",
+    "answer": "415.8 miles",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What was the velocity change required at the second planned midcourse option point?",
+    "answer": "23.2 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the unit of measurement for altitude above the lunar surface?",
+    "answer": "feet or miles",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the time required for a spacecraft to complete 360 degrees of orbit rotation?",
+    "answer": "min",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What is the longitude of the ascending node?",
+    "answer": "101.85W",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What is the altitude above the launch pad at the S-IVB second cutoff?",
+    "answer": "175.71 miles",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What was the altitude above the launch pad of the S-IVB second ignition?",
+    "answer": "105.39 miles",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What was the space-fixed velocity of the spacecraft at the translunar injection?",
+    "answer": "538.4 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 39,
+    "question": "What was the targeted lunar impact point of the discarded S-IVB stage?",
+    "answer": "3 degrees south latitude and 30 degrees west longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 39,
+    "question": "At what time was the S-IVB maneuver to achieve lunar impact initiated?",
+    "answer": "6 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What was the targeted impact point of the discarded S-IVB stage on the lunar surface?",
+    "answer": "3 degrees south latitude and 30 degrees west longitude.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What was the predicted earth landing point of the command module after the first midcourse correction maneuver?",
+    "answer": "The Indian Ocean south of Mauritius Island.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What was the unexplained velocity increase of the S-IVB stage at approximately 19 hours 17 minutes?",
+    "answer": "5 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 41,
+    "question": "Where did the command module nominally land if the 38-ft/sec midcourse maneuver was not performed?",
+    "answer": "The Indian Ocean south of Mauritius Island",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 42,
+    "question": "What was the result of the first transearth midcourse correction in terms of the entry flight-path angle?",
+    "answer": "The entry flight-path angle was successfully raised to minus 6.52 degrees.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 42,
+    "question": "What was the time at which the first midcourse correction was performed during the translunar phase?",
+    "answer": "30:40:49.6",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 43,
+    "question": "What was the firing time for the first midcourse correction during the transearth phase?",
+    "answer": "105:18:28",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 43,
+    "question": "What was the velocity change produced by the firing of the descent propulsion system during the first transearth midcourse correction?",
+    "answer": "7.8 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 44,
+    "question": "What was the time of the final midcourse correction maneuver?",
+    "answer": "79:27:39",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 44,
+    "question": "Where did the spacecraft land?",
+    "answer": "The Pacific Ocean at 21 degrees 38.4 minutes south latitude and 165 degrees 21.7 minutes west longitude",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 45,
+    "question": "What was the entry arrival time of the spacecraft?",
+    "answer": "142:40:47",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 45,
+    "question": "Where did the spacecraft land?",
+    "answer": "The Pacific Ocean at 21 degrees 38.4 minutes south latitude and 165 degrees 21.7 minutes west longitude",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 46,
+    "question": "What was the time of the lunar module's undocking before entry?",
+    "answer": "1 hour 11 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 46,
+    "question": "What was the amplitude of the oscillations measured during S-II boost?",
+    "answer": "less than 0.05g",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 47,
+    "question": "What were the results of the structural loads during all phases of flight?",
+    "answer": "They were well below the established limits.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 47,
+    "question": "What was the amplitude of the vibrations at the spacecraft during S-II boost?",
+    "answer": "Less than 0.05g",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 48,
+    "question": "What was the amplitude of the longitudinal oscillations in the spacecraft during S-II boost?",
+    "answer": "Less than 0.05g",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 48,
+    "question": "What was the maximum oscillation measured during the S-IVB thrust periods?",
+    "answer": "0.06g",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 49,
+    "question": "What was the issue with the docking tunnel insulation during the mission?",
+    "answer": "It cracked and expanded radially.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 49,
+    "question": "How were batteries A and B charged during the flight?",
+    "answer": "They were charged a total of three times each, including once each using power from the lunar module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 50,
+    "question": "What was the cause of the mechanical anomaly in the apex cover jettison system?",
+    "answer": "A gas leak from one of two breech assemblies.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 50,
+    "question": "What was the effect of the loss of pressure in cryogenic oxygen tank 2 on the fuel cells?",
+    "answer": "Fuel cells 1 and 3 lost power and were shut down.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 51,
+    "question": "What happened to the fuel cell power after the loss of pressure in cryogenic oxygen tank 2?",
+    "answer": "Fuel cells 1 and 3 lost power and were shut down.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 51,
+    "question": "What caused the degradation of fuel cells 1 and 3 after the Oxygen tank 2 pressure dropped?",
+    "answer": "The fuel cell oxygen shutoff valves closing abruptly because of the shock generated when the bay 4 panel separated.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 52,
+    "question": "What caused the erratic readings from the fuel cell flow indicators prior to lift-off?",
+    "answer": "Cycling the switch.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 52,
+    "question": "What caused the degradation of fuel cells 1 and 3 during the mission?",
+    "answer": "The shock generated when the bay 4 panel separated, causing the fuel cell oxygen shutoff valves to close abruptly.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 53,
+    "question": "What was the cause of the fuel cell oxygen shutoff valves closing abruptly?",
+    "answer": "The shock generated when the bay 4 panel separated.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 53,
+    "question": "What was the average power supplied by the fuel cells during the mission?",
+    "answer": "120 kW-h",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 54,
+    "question": "What was the average current supplied by each fuel cell during the mission?",
+    "answer": "Approximately 24 amperes",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 54,
+    "question": "What was the reason for the power loss from fuel cells 1 and 3?",
+    "answer": "The pressure in oxygen tank 2 dropped to zero and the pressure in oxygen tank 1 began to decay.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 55,
+    "question": "What was the cause of the sudden drop in pressure in oxygen tank 2?",
+    "answer": "The pressure in oxygen tank 2 suddenly dropped to zero due to a loose or misaligned plumbing component in the dog-leg portion of the tank fill path.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 55,
+    "question": "What was the reason for the heaters being used to detank oxygen tank 2?",
+    "answer": "The heaters were used to boil off the fluid after numerous attempts using gaseous oxygen purges and higher expulsion pressures failed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 56,
+    "question": "What was the reason for the inability to detank tank 2 during the countdown demonstration test at Kennedy Space Center?",
+    "answer": "Loose or misaligned plumbing components in the dog-leg portion of the tank fill path.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 56,
+    "question": "What was the suspected cause of the inflight failure in tank 2?",
+    "answer": "Damage to fan motor wire insulation due to the thermal switches opening under a load.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 57,
+    "question": "What was the reason for the initial cryogenic oxygen filling problem in tank 2 during the countdown demonstration test at Kennedy Space Center?",
+    "answer": "Loose or misaligned plumbing components in the dog-leg portion of the tank fill path.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 57,
+    "question": "What was the cause of the inflight failure in tank 2?",
+    "answer": "Damage to fan motor wire insulation due to the heaters being used in detanking.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 58,
+    "question": "What was the cause of the temporary loss of telemetry data experienced by the spacecraft at approximately 56 hours?",
+    "answer": "The high-gain antenna experienced an apparent switch from narrow to wide beamwidth due to damage to the service module.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 58,
+    "question": "What was the purpose of powering up the communications system from 101:53:00 to 102:02:00 and from 123:05:00 to 123:12:00?",
+    "answer": "To transmit high-bit-rate telemetry data using the omnidirectional antennas.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 59,
+    "question": "What was the cause of the temporary loss of telemetry data experienced by the spacecraft at approximately 56 hours?",
+    "answer": "The high-gain antenna experienced an apparent switch from narrow to wide beamwidth due to damage caused by the loss of a Service module outer panel.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 59,
+    "question": "What was the result of powering up the communications system from 101:53:00 to 102:02:00 and from 123:05:00 to 123:12:00?",
+    "answer": "The S-band system transmitted high-bit-rate telemetry data using the omnidirectional antennas.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 60,
+    "question": "What was the cause of the damage to the high-gain antenna?",
+    "answer": "The loss of a Service module outer panel.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 60,
+    "question": "What was the outcome of the S-band system verification prior to undocking?",
+    "answer": "It performed nominally.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 61,
+    "question": "What was the cause of the erratic behavior of the potable water quantity measurement system?",
+    "answer": "This anomaly is described in section 14.l.8.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 61,
+    "question": "How long was all power removed from the inertial platform, including heaters?",
+    "answer": "Approximately 80 hours.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 62,
+    "question": "What was the cause of the shorting of the instrumentation power supply in the service propulsion auxiliary propellant gaging system?",
+    "answer": "Fuel leakage into the point sensor module within the tank.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 62,
+    "question": "What was the result of the power restrictions during entry, specifically regarding the data storage equipment recorder?",
+    "answer": "No entry data are available for an entry performance analysis.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 63,
+    "question": "What was the cause of the random motion observed in the sextant shaft during the zero optics mode?",
+    "answer": "A buildup of contact resistance in the slip rings of the half-speed resolver in the sextant.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 63,
+    "question": "What was the result of the power restrictions during the mission?",
+    "answer": "No entry data are available for an entry performance analysis.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 64,
+    "question": "What was the reason for the unsuccessful attempt at passive thermal control mode at 7:43:02?",
+    "answer": "The roll rate was established using one rather than two roll engines, as required by the checklist.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 64,
+    "question": "What was the cause of the divergent coning angle during the passive thermal control mode attempt at 32:21:49?",
+    "answer": "An unplanned minimum impulse engine firing occurred 13 seconds after initiating the roll rate.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 65,
+    "question": "What was the velocity change imparted by the thrusting for initial separation from the S-IvB?",
+    "answer": "0.86 ft/sec",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 65,
+    "question": "What was the reason for the unsuccessful attempt at passive thermal control mode at 7:43:02?",
+    "answer": "The roll rate was established using one rather than two roll engines, and an incorrect roll rate was loaded into the digital autopilot.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 66,
+    "question": "What was the reason for the divergent coning angle during the passive thermal control mode attempt at 7:43:02?",
+    "answer": "The roll rate was established using one rather than two roll engines, as required by the checklist.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 66,
+    "question": "What could have been done procedurally to avoid the engine firing during the passive thermal control mode attempt at 32:2l:49?",
+    "answer": "Disabling all engines before doing any control system switching.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 67,
+    "question": "What were the adverse effects of two extraneous firings in the context of the Apollo mission?",
+    "answer": "The adverse effects of two extraneous firings are shown in figure 5.6-1.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 67,
+    "question": "What was the response of the digital autopilot to the events caused by the oxygen tank incident?",
+    "answer": "The response of the digital autopilot was as programmed, reducing rate and attitude errors to a nulled condition within 75 seconds.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 68,
+    "question": "What was the duration of the first midcourse correction performed by the service propulsion system?",
+    "answer": "3.49 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 68,
+    "question": "What was the possible cause of the pitch-up disturbance torque exerted on the command module?",
+    "answer": "A combination of gravity gradients, atmospheric trimming, venting through the umbilical, venting through the tunnel hatch, and a gradual propellant leak",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 69,
+    "question": "What was the initial pitch of the spacecraft?",
+    "answer": "0.95",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 69,
+    "question": "What was the maximum attitude error in roll?",
+    "answer": "+0.12",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 70,
+    "question": "What was the reason for performing a precise alignment of the spacecraft's gyros?",
+    "answer": "The difficulty in recognizing constellations through the scanning telescope as a result of reflections from the lunar module and obscuration by vented particles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 70,
+    "question": "What was the possible cause of the pitch-up disturbance torque observed on the command module?",
+    "answer": "A combination of gravity gradients, atmospheric trimming, venting through the umbilical, venting through the tunnel hatch, and a gradual propellant leak.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 71,
+    "question": "What was the technique used for the alignment prior to entry due to the difficulty in recognizing constellations through the scanning telescope?",
+    "answer": "The automatic optics positioning capability to locate stars for a precise alignment.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 71,
+    "question": "What was the cause of the discrepancy in the Y-axis error magnitude during ascent?",
+    "answer": "The magnitude of the null bias drift.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 72,
+    "question": "What was the cause of the discrepancy in the Y-axis error magnitude observed during the ascent to the command module platform?",
+    "answer": "The cause of the discrepancy was the magnitude of the null bias drift.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 72,
+    "question": "What was the typical Y-axis error magnitude observed during ascent to date?",
+    "answer": "75-ft/sec difference in the Y-axis.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 73,
+    "question": "What was the typical cause of the Y-axis error magnitude observed during ascent?",
+    "answer": "A command module platform gyrocompassing misalignment at lift-off.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 73,
+    "question": "What was the Y-axis difference between the S-IvB instrument unit and the command module platform during earth ascent?",
+    "answer": "75-ft/sec",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 74,
+    "question": "What is the coefficient for the X-axis that was causing the gyrocompassing misalignment?",
+    "answer": "-0.167",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 74,
+    "question": "What was the time at which the coefficient for the X-axis was updated to -1.2?",
+    "answer": "32:04:29",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 75,
+    "question": "What was the significant coefficient shift observed after the long cold soak in the inertial measurement unit?",
+    "answer": "The Z-axis accelerometer bias shifted from minus $0.04\\mathsf{c m}/\\mathsf{s e c}^{2}$ to minus $1.66~\\mathsf{c m}/\\mathsf{s e c}^{2}$.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 75,
+    "question": "What was the estimated minimum temperature reached by the inertial measurement unit before power-up?",
+    "answer": "The estimated minimum temperature was between $55^{\\circ}$ Or $60^{\\circ}$ F.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 76,
+    "question": "What was the shift in the Z-axis accelerometer bias after the long cold soak?",
+    "answer": "minus $0.04\\mathsf{c m}/\\mathsf{s e c}^{2}$ to the new value of minus $1.66~\\mathsf{c m}/\\mathsf{s e c}^{2}$",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 76,
+    "question": "How long after the oxygen tank incident was power to the guidance and navigation system removed?",
+    "answer": "about 58 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 77,
+    "question": "What was the estimated minimum temperature reached by the inertial measurement unit before power-up?",
+    "answer": "$55^{\\circ}$ Or $60^{\\circ}$ F",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 77,
+    "question": "What was the shift in the Z-axis accelerometer bias after the long cold soak?",
+    "answer": "minus $0.04\\mathsf{c m}/\\mathsf{s e c}^{2}$ to minus $1.66~\\mathsf{c m}/\\mathsf{s e c}^{2}$",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 78,
+    "question": "What was the total amount of propellant used by the service module reaction control system before the oxygen tank anomaly?",
+    "answer": "137 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 78,
+    "question": "What happened to the propellant isolation valves on quad D after the oxygen tank pressure loss?",
+    "answer": "They were shocked to the closed position",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 79,
+    "question": "How much propellant was used for the initial separation from the S-IVB, the turnaround maneuver, docking and ejection?",
+    "answer": "55 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 79,
+    "question": "What happened to the propellant isolation valves on quad C after the oxygen tank pressure loss?",
+    "answer": "They were stuck in the closed position",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 80,
+    "question": "Why were the quad C propellant isolation valves unable to be reopened after the oxygen tank pressure loss?",
+    "answer": "The valves could not be reopened because they are powered from bus B, which lost power.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 80,
+    "question": "What was the lowest engine injector temperature before system activation?",
+    "answer": "$1.5^{\\circ}$ F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 81,
+    "question": "What was the temperature of the helium source before system activation?",
+    "answer": "$70^{\\circ}$ F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 81,
+    "question": "What was the condition of the propellant isolation valve system l fuel isolation valve before deactivation at Hawaii?",
+    "answer": "The system l fuel isolation valve was found to be in the open position.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 82,
+    "question": "What was the temperature of the helium source before activation of the system?",
+    "answer": "about $35^{\\circ}$ F",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 82,
+    "question": "What was the position of the system 1 fuel isolation valve before decontamination at Hawaii?",
+    "answer": "in the open position",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 83,
+    "question": "What was the reason for the system 1 fuel isolation valve being in the open position?",
+    "answer": "The electrical lead from the system 1 fuel-valve closing coil was miswired.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 83,
+    "question": "How long was the suit compressor in operation during entry?",
+    "answer": "22 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 84,
+    "question": "What was the condition of the environmental control system during the periods when it was activated?",
+    "answer": "It performed normally.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 84,
+    "question": "What was the temperature of the cabin when it was powered down?",
+    "answer": "Approximately 43\u00b0 F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 85,
+    "question": "What was the pressure in the surge tank when it was isolated?",
+    "answer": "858 psia",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 85,
+    "question": "Why were gas bubbles present in the potable water after the spacecraft was returned to the manufacturer's plant?",
+    "answer": "The gas bubbles were present due to freezing in the lines during the flight.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 86,
+    "question": "What was the cabin temperature during the period when the command module was powered down?",
+    "answer": "Approximately 43\u00b0 F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 86,
+    "question": "Why was the dumping through the auxiliary dump nozzle discontinued?",
+    "answer": "A considerable number of particles were evident on the hatch window and interfered with navigation sightings.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 87,
+    "question": "What was the reason for discontinuing the use of the auxiliary dump nozzle on the spacecraft?",
+    "answer": "A considerable number of particles were evident on the hatch window and these interfered with navigation sightings.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 87,
+    "question": "What was the condition of the postlanding ventilation valves upon recovery?",
+    "answer": "The outlet valve was open and the inlet valve was closed.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 88,
+    "question": "What was the reason for discontinuing the use of the auxiliary dump nozzle on the Apollo mission?",
+    "answer": "A considerable number of particles were evident on the hatch window and these interfered with navigation sightings.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 88,
+    "question": "What was the power consumption level of the lunar module after the second descent propulsion firing?",
+    "answer": "360 watts (12 amperes)",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 89,
+    "question": "What types of data were used for structural evaluation of the spacecraft?",
+    "answer": "Guidance and control data, cabin pressure measurements, command module acceleration data, photographs, and crew comments.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 89,
+    "question": "What was the average electrical energy consumption of the lunar module in its initial powered-down configuration?",
+    "answer": "900 watts at 30 amperes.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 90,
+    "question": "What was the average electrical energy consumption of the lunar module in its initial powered-down configuration?",
+    "answer": "900 watts",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 90,
+    "question": "What was the reason for the S-band power amplifier being turned off?",
+    "answer": "To provide the higher modulation index for telemetry",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 91,
+    "question": "What was the primary communications configuration used during the mission?",
+    "answer": "Low power, low-bit-rate telemetry, omnidirectional antennas, and backup voice on baseband.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 91,
+    "question": "What was the reason for the attitude error needles not being zeroed during the last midcourse correction?",
+    "answer": "An out-of-sequence turn-on procedure for the digital autopilot and the inertial measurement unit.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 92,
+    "question": "What was the primary communications configuration used during the mission to conserve electrical power?",
+    "answer": "Low power, low-bit-rate telemetry, omnidirectional antennas, and backup voice on baseband.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 92,
+    "question": "What was the temperature of the antenna in the passive thermal control mode?",
+    "answer": "Approximately minus 66\u00b0 F.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 93,
+    "question": "What was the temperature of the antenna in the passive thermal control mode?",
+    "answer": "Approximately minus 66\u00b0 F.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 93,
+    "question": "What was the difficulty experienced by the crew in establishing the passive thermal control mode?",
+    "answer": "The crew had considerable difficulty in establishing acceptable initial conditions for the passive thermal control mode.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 94,
+    "question": "What was the main difficulty the crew faced in establishing passive thermal control mode?",
+    "answer": "The crew had difficulty due to the necessity to use the translation hand controller for rotation about the vehicle pitch and roll axes and the attitude controller for yaw commands.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 94,
+    "question": "What was the reason for the attitude error bias in the flight director attitude indicator?",
+    "answer": "The sequence used to power up the platform and to enable the autopilot prevented certain computer memory cells from being properly initialized.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 95,
+    "question": "What was the pilot's task complicated by in this situation?",
+    "answer": "Having the flight director attitude indicators powered down.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 95,
+    "question": "What was the result of the sequence used to power up the platform and to enable the autopilot?",
+    "answer": "An attitude error bias was introduced between the stored values of attitude error and those displayed on the attitude error needles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 96,
+    "question": "What was the effect of the error-counter-enable status bit being set during the platform coarse alignment?",
+    "answer": "A bias was introduced into the attitude error loop.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 96,
+    "question": "What was the result of the digital autopilot being activated with the error counters already enabled?",
+    "answer": "No initialization took place and a bias was introduced into the attitude error loop.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 97,
+    "question": "What was the effect of the error-counter-enable status bit being set during the platform coarse alignment?",
+    "answer": "A bias was introduced into the attitude error loop.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 97,
+    "question": "What was the spacecraft dynamic response during the service module jettison and lunar module undocking sequence?",
+    "answer": "Normal.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 98,
+    "question": "What was the result of the attitude error loop after the seventh midcourse correction?",
+    "answer": "The attitude errors displayed to the crew reflected a bias in the pitch, roll, and yaw axes of plus 1.3, plus 21.2, and minus 12.0 degrees, respectively.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 98,
+    "question": "What was the reason for the larger-than-expected roll-gimbal drive actuator excursion during the transearth injection maneuver?",
+    "answer": "The excursions were due to engine compliance and mistrim.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 99,
+    "question": "What was the throttle profile for the first midcourse correction performed by the lunar module?",
+    "answer": "5 seconds at 12.7 percent followed by 27 seconds at 40 percent.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 99,
+    "question": "What was the reason for the larger than expected roll-gimbal drive actuator excursion during the transearth injection maneuver?",
+    "answer": "Engine compliance and mistrim.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 100,
+    "question": "What was the throttle profile for the transearth injection maneuver?",
+    "answer": "5 seconds at 12.6 percent, 21 seconds at 40 percent, and the remainder at full throttle.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 100,
+    "question": "What was the result of the check of the platform alignment accuracy before the transearth injection maneuver?",
+    "answer": "The platform misalignments about any axis were approximately half the allowable 1-degree limit.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 101,
+    "question": "What was the result of the sun check angles in terms of platform misalignment?",
+    "answer": "The platform misalignments about any axis were approximately half the allowable 1-degree limit.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 101,
+    "question": "What was the duration of the third midcourse correction?",
+    "answer": "34.23 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 102,
+    "question": "What is the time of the cutoff for the third midcourse correction?",
+    "answer": "79:32:02.77",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 102,
+    "question": "What is the star-angle difference resulting from approximations in stored lunar and solar ephemeris data and computer routines?",
+    "answer": "minus 1.12 degrees",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 103,
+    "question": "What was the primary guidance system powered up at 133-1/2 hours?",
+    "answer": "A coarse alignment to the abort guidance system",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 103,
+    "question": "What resulted in the star-angle difference of minus 1.12 degrees?",
+    "answer": "Approximations in stored lunar and solar ephemeris data and computer routines",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 104,
+    "question": "What was the primary guidance system powered up at 133-1/2 hours?",
+    "answer": "The primary guidance system was powered up after a coarse alignment to the abort guidance system was performed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 104,
+    "question": "What was the reason for the star-angle difference of minus 1.12 degrees?",
+    "answer": "The star-angle difference resulted almost entirely from approximations in stored lunar and solar ephemeris data and computer routines used to calculate sun and moon position vectors.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 105,
+    "question": "What was the standard deviation of the accelerometer bias in the X direction?",
+    "answer": "16.3",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 105,
+    "question": "What was the standard deviation of the gyro fixed drift in the Z direction?",
+    "answer": "0.06",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 106,
+    "question": "What was the temperature of the abort sensor assembly at times during the flight?",
+    "answer": "37\u00b0F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 106,
+    "question": "How much propellant was consumed by the reaction control system?",
+    "answer": "467 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 107,
+    "question": "What was the total propellant consumption of the reaction control system?",
+    "answer": "467 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 107,
+    "question": "What was the temperature range of the cluster heaters during passive thermal control modes?",
+    "answer": "$55^{\\circ}$ to 97\u00b0F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 108,
+    "question": "What was the total propellant consumption at the time the reaction control system was activated?",
+    "answer": "467 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 108,
+    "question": "What was the duration of the third descent propulsion operation?",
+    "answer": "13.7 seconds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 109,
+    "question": "What was the duration of the transearth injection maneuver?",
+    "answer": "264 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 109,
+    "question": "What was the mode in which the third system firing was performed?",
+    "answer": "blowdown mode",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 110,
+    "question": "What was the duration of the transearth injection maneuver?",
+    "answer": "264 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 110,
+    "question": "What was the net effect of the escaping gas from the burst diaphragm on the spacecraft's motion?",
+    "answer": "The escaping gas produced a net thrust in the opposite direction, inducing a slight roll rate to the vehicle.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 111,
+    "question": "What was the average rise rate of the helium pressure from lift-off to the first descent propulsion maneuver?",
+    "answer": "7.0 psi/hr",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 111,
+    "question": "Why was the vent tube configuration not changed for future spacecraft despite the unwanted rolling moment?",
+    "answer": "The unwanted rolling moment was quite small and would have no ultimate effect on a nominal profile.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 112,
+    "question": "What was the predicted rupture range for the helium tank in the spacecraft?",
+    "answer": "190o \u00b1 20 psia",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 112,
+    "question": "What was the net effect of the vent tube configuration on the spacecraft's roll rate?",
+    "answer": "A slight roll rate in the opposite direction",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 113,
+    "question": "What was the total oxygen usage from the lunar module oxygen tanks during the mission?",
+    "answer": "20.3 pounds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 113,
+    "question": "What was the average water usage rate during the mission?",
+    "answer": "3.45 lb/hr",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 114,
+    "question": "What was the total oxygen usage from the three lunar module oxygen tanks during an 82-hour period?",
+    "answer": "20.3 pounds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 114,
+    "question": "What was the average metabolic consumption rate throughout the flight?",
+    "answer": "0.21 lb/hr",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 115,
+    "question": "What was the average oxygen usage rate from the lunar module oxygen tanks over an 82-hour period?",
+    "answer": "0.25 lb/hr",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 115,
+    "question": "How long was the primary lithium hydroxide cartridge used for?",
+    "answer": "27 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 116,
+    "question": "How long was the primary lithium hydroxide cartridge used following activation of the lunar module?",
+    "answer": "27 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 116,
+    "question": "What was the nominal rating of the secondary lithium hydroxide cartridge for usage capacity?",
+    "answer": "17.9 man-hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 117,
+    "question": "What was the supplemental configuration used to improve the carbon dioxide removal capability in the lunar module suit circuit?",
+    "answer": "Two additional units were stacked on each original cartridge.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 117,
+    "question": "What was the maximum leakage rate through the shutoff valve into the ascent oxygen tank 2?",
+    "answer": "Approximately 0.22 lb/hr.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 118,
+    "question": "What was the typical cabin temperature range during the return flight?",
+    "answer": "54^{\\circ} and 60^{\\circ} F",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 118,
+    "question": "What was the maximum leakage rate through the shutoff valve into the ascent oxygen tank 2?",
+    "answer": "0.22 lb/hr",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 119,
+    "question": "What was the maximum leakage rate through the shutoff valve into the ascent oxygen tank 2?",
+    "answer": "Approximately 0.22 lb/hr",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 119,
+    "question": "What was the propellant loading of fuel in the service propulsion system at the time of lift-off?",
+    "answer": "15 lb",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 120,
+    "question": "What was the result of the lunar module water gun being returned to earth and undergoing postflight testing?",
+    "answer": "The lunar module water gun was found to be operating properly.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 120,
+    "question": "What was the reason for the increased reaction control system propellant usage in the service module?",
+    "answer": "The increased thruster activity required to null the effects of propulsive venting from both oxygen tanks during the incident.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 121,
+    "question": "What was the total propellant usage for the service propulsion system?",
+    "answer": "92.3 pounds fuel and 147 pounds oxidizer",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 121,
+    "question": "What was the preflight planned usage of reaction control propellant for the service module?",
+    "answer": "178 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 122,
+    "question": "How much propellant was used by the command module reaction control system during the incident?",
+    "answer": "Approximately 12 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 122,
+    "question": "What was the preflight planned usage of fuel propellant?",
+    "answer": "178 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 123,
+    "question": "How much propellant was used by the command module reaction control system until the time of communications blackout?",
+    "answer": "Approximately 12 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 123,
+    "question": "How much oxygen was remaining in tank 2 at the time of the incident?",
+    "answer": "242.0 pounds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 124,
+    "question": "What was the remaining oxygen supply in the surge tank after the incident?",
+    "answer": "3.77 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 124,
+    "question": "How much water was used by the crew during the abort phase?",
+    "answer": "14 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 125,
+    "question": "What was the remaining battery capacity after charging the batteries with lunar module power?",
+    "answer": "118 ampere-hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 125,
+    "question": "How many pounds of oxygen remained at the time of undocking?",
+    "answer": "32",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 126,
+    "question": "What was the remaining amount of oxygen in the lunar module at the time of undocking?",
+    "answer": "32 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 126,
+    "question": "How many ampere-hours of electrical energy was available from the four descent- and two ascent-stage batteries at the time of power up?",
+    "answer": "2179",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 127,
+    "question": "What was the primary use of water in the lunar module during the abort phase?",
+    "answer": "To cool the cabin and onboard equipment.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 127,
+    "question": "How many ampere-hours of electrical energy was available from the four descent- and two ascent-stage batteries at the time of power up?",
+    "answer": "2179",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 128,
+    "question": "How many ampere hours of electrical energy was available from the four descent- and two ascent-stage batteries at the time of power up?",
+    "answer": "2179",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 128,
+    "question": "Who were the Apollo 13 flight crew members?",
+    "answer": "Commander James A. Lovell, Jr., Command Module Pilot John L. Swigert, Jr., and Lunar Module Pilot Fred W. Haise, Jr.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 129,
+    "question": "When did crew training for Apollo 13 commence?",
+    "answer": "August 1, 1969",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 129,
+    "question": "What was a primary objective of the crew training for Apollo 13?",
+    "answer": "A field geology experiment as part of the second extravehicular excursion",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 130,
+    "question": "What was the primary difficulty in coordinating the training activities for the Apollo 13 crew?",
+    "answer": "The scheduling of the lunar landing training vehicle for the Commander.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 130,
+    "question": "What was the reason for substituting the backup Command Module Pilot prior to the flight?",
+    "answer": "The Command Module Pilot was not immune to measles, and the backup Command Module Pilot became sick with the disease.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 131,
+    "question": "What was the reason for substituting the backup Command Module Pilot?",
+    "answer": "The prime Command Module Pilot was not immune to measles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 131,
+    "question": "What was observed with the fuel cell flow indicators during the prelaunch preparation?",
+    "answer": "They alternately rose several scale marks and then returned to normal momentarily before cycling again.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 132,
+    "question": "What was the reason for the substitution of the backup Command Module Pilot?",
+    "answer": "The Command Module Pilot was not immune to measles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 132,
+    "question": "What was the outcome of the integrated training among the three crew members after the substitution of the Command Module Pilot?",
+    "answer": "The training presented no deficiencies, including readiness for the abort condition that occurred.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 133,
+    "question": "What was the outcome of the fuel cell flow indicators after the fuel cell selector knob was rotated?",
+    "answer": "They would alternately rise several scale marks and then return to normal momentarily before cycling again.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 133,
+    "question": "At what time did S-IVB engine cutoff occur?",
+    "answer": "00:12:30",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 134,
+    "question": "What was the reason for the illumination of the number 5 engine out light on the Apollo 13 spacecraft?",
+    "answer": "Engine 5 had shut down approximately 2 minutes early.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 134,
+    "question": "What was the velocity of the spacecraft at the time of S-IVB engine cutoff?",
+    "answer": "25 565 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 135,
+    "question": "What was the velocity of the spacecraft at the time of S-IVB engine cutoff?",
+    "answer": "25 565 ft/sec",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 135,
+    "question": "What was the inertial velocity of the spacecraft at the time of translunar injection cutoff?",
+    "answer": "35 560 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 136,
+    "question": "What was the result of the star alignment program being selected in the computer during the mission?",
+    "answer": "The dust covers jettisoned when the optics were being driven to the first star.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 136,
+    "question": "What was the total reaction control fuel used for transposition, docking, and extraction?",
+    "answer": "55 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 137,
+    "question": "What was the computer-displayed inertial velocity at cutoff during the translunar injection?",
+    "answer": "35 560 ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 137,
+    "question": "How much reaction control fuel was used for transposition, docking, and extraction?",
+    "answer": "55 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 138,
+    "question": "What was the roll index angle found during the tunnel inspection after contact was made with the lunar module?",
+    "answer": "minus 2.0 degrees",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 138,
+    "question": "What was the total reaction control fuel used for transposition, docking, and extraction?",
+    "answer": "55 pounds",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 139,
+    "question": "What was the roll rate used with the positive longitudinal spacecraft axis pointed toward ecliptic north pole during the passive thermal control mode?",
+    "answer": "0.3 deg/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 139,
+    "question": "What was the condition of oxygen tank 2 at about 47 hours?",
+    "answer": "The oxygen tank 2 quantity sensor failed full scale high",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 140,
+    "question": "What was the roll rate used with the positive longitudinal spacecraft axis pointed toward ecliptic north pole during the passive thermal control mode?",
+    "answer": "0.3 deg/sec",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 140,
+    "question": "What was the condition confirmed by the ground at about 47 hours?",
+    "answer": "The oxygen tank 2 quantity sensor failed full scale high",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 141,
+    "question": "What was the noticeable difference in the fuel cell flowrate indications during the midcourse correction maneuver?",
+    "answer": "The fuel cell flowrate indications barely moved.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 141,
+    "question": "What was the suggested alternative for telecasting during dynamic events?",
+    "answer": "To have the ground do all commentary.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 142,
+    "question": "What was the suggested alternative for telecasting during dynamic events?",
+    "answer": "The ground should do all commentary.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 142,
+    "question": "What was the source of the problem that led to the loss of fuel cells 1 and 3?",
+    "answer": "The cryogenic oxygen tank incident.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 143,
+    "question": "What was the reason for the crew to terminate efforts to install the tunnel hatch?",
+    "answer": "Venting of material from the service module area.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 143,
+    "question": "What was the result of shutting down fuel cells 1 and 3?",
+    "answer": "The decrease in oxygen tank 1 pressure stopped.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 144,
+    "question": "What was the reason for terminating efforts to install the tunnel hatch?",
+    "answer": "Venting of material from the service module area.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 144,
+    "question": "What was the result of shutting down fuel cell 1 and 3?",
+    "answer": "The decrease in oxygen tank 1 pressure stopped.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 145,
+    "question": "What was deleted from the Lunar Module Systems Activation Checklist?",
+    "answer": "The very high frequency portion of the communications activation.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 145,
+    "question": "How was potable water obtained for crew use?",
+    "answer": "By periodically pressurizing the potable tank with surge-tank oxygen and withdrawing potable water until the pressures equalized.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 146,
+    "question": "How was potable water obtained on the spacecraft before the potable tank was exhausted?",
+    "answer": "By periodically pressurizing the potable tank with surge-tank oxygen and withdrawing potable water until the pressures equalized.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 146,
+    "question": "What was used to control the roll and pitch of the docked configuration during the midcourse correction maneuver?",
+    "answer": "The thrust/translation controller assembly.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 147,
+    "question": "How was potable water obtained on the spacecraft before entry?",
+    "answer": "Potable water was obtained by periodically pressurizing the potable tank with surge-tank oxygen and withdrawing potable water until the pressures equalized.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 147,
+    "question": "What was used to control the yaw of the spacecraft during the midcourse correction to a free return?",
+    "answer": "The attitude controller assembly",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 148,
+    "question": "What was the primary method used to control the spacecraft's roll and pitch during the docked configuration?",
+    "answer": "The thrust/translation controller assembly.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 148,
+    "question": "What was the purpose of yawing the spacecraft each hour during the passive thermal control mode?",
+    "answer": "To conserve reaction control fuel by establishing a wide deadband using primary guidance.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 149,
+    "question": "What was the purpose of the passive thermal control mode in the spacecraft?",
+    "answer": "To conserve power and maneuver the spacecraft to specific attitudes.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 149,
+    "question": "What was the method used to check the alignment accuracy of the lunar module platform?",
+    "answer": "A platform alignment program (P52, option 3), using the sun for reference.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 150,
+    "question": "What method was used to check the alignment accuracy of the lunar module platform for the transearth injection maneuver?",
+    "answer": "A platform alignment program (P52, option 3), loading the sun vectors, and utilizing an automatic attitude maneuver.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 150,
+    "question": "What was the reason for the difficulty in aligning the platform using a star reference?",
+    "answer": "The large amount of debris in the vicinity of the spacecraft.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 151,
+    "question": "What method was used to check the alignment accuracy of the lunar module platform at 74 hours?",
+    "answer": "A platform alignment program (P52, option 3) using the sun for reference.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 151,
+    "question": "What was the reason for the difficulty in aligning the lunar module platform using a star reference?",
+    "answer": "The large amount of debris in the vicinity of the spacecraft.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 152,
+    "question": "What was the main reason for difficulty in aligning the lunar module using a star reference?",
+    "answer": "The large amount of debris in the vicinity of the spacecraft.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 152,
+    "question": "What was the method used to establish a passive thermal control mode during the transearth coast?",
+    "answer": "The spacecraft was manually maneuvered to the initial attitude by nulling out the attitude error needles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 153,
+    "question": "What was the initial throttle profile for the spacecraft?",
+    "answer": "The throttle profile was started in the idle position, then moved to 40 percent for 2 seconds, and finally to full throttle for the remainder of the firing.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 153,
+    "question": "What was the cause of the master alarm circuit in the lunar module?",
+    "answer": "The problem was attributed to a sensor.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 154,
+    "question": "What was the purpose of the 2l yaw-right pulse inputs made to the spacecraft?",
+    "answer": "To establish a vehicle rolling motion.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 154,
+    "question": "What was the reason for the potable water being used solely for drinking and rehydrating juices?",
+    "answer": "There was an ample supply of both prepared wetpacks and nonrehydratable foods.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 155,
+    "question": "What was the reason for the low cabin temperature in the command module after the lunar module power-down?",
+    "answer": "The cabin temperature decreased to an unacceptable level for use as a rest station.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 155,
+    "question": "What was done to address the insufficient lithium hydroxide cartridges in the lunar module?",
+    "answer": "A system was constructed to attach a command module lithium hydroxide cartridge to each of two lunar module suit hoses.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 156,
+    "question": "What was the reason for the crew to remain in the lunar module for sleep?",
+    "answer": "The command module cabin temperature decreased to the point that it was unacceptable for use as a rest station.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 156,
+    "question": "What was the primary use of the potable water available to the crew?",
+    "answer": "The primary use of the potable water was for drinking and rehydrating juices.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 157,
+    "question": "What was the reason for attaching a command module lithium hydroxide cartridge to each of two lunar module suit hoses?",
+    "answer": "Insufficient lithium hydroxide cartridges in the lumar module to support the abort mission.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 157,
+    "question": "What was the effect of the command module auxiliary urine dump on visibility through the command module hatch window?",
+    "answer": "It seriously degraded visibility.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 158,
+    "question": "What was the cause of the moisture contamination in the command module windows?",
+    "answer": "The reduced cabin temperature.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 158,
+    "question": "What was the reason for the crew to inhibit all further overboard urine dumps?",
+    "answer": "To avoid interfering with navigation sightings.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 159,
+    "question": "What was the reason for the crew to inhibit all further overboard dumps after the command module auxiliary urine dump?",
+    "answer": "To not interfere with navigation sightings.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 159,
+    "question": "What was the method used to manually align the spacecraft for the descent propulsion maneuver?",
+    "answer": "The crew used the crewmen optical alignment sight to position the cusps of the earth's terminator on the Y-axis reticle.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 160,
+    "question": "What was the duration of the crew's manual descent propulsion maneuver?",
+    "answer": "Approximately 105 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 160,
+    "question": "Who controlled the pitch attitude during the manual descent propulsion maneuver?",
+    "answer": "The Lunar Module Pilot",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 161,
+    "question": "What was the role of the Lunar Module Pilot during the attitude control maneuver?",
+    "answer": "The Lunar Module Pilot controlled pitch.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 161,
+    "question": "What was the reason for shutting down the engine 1 second short of the calculated firing time?",
+    "answer": "To preclude an overburn which might require use of minus-X thrusters and cause plume impingement on the command module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 162,
+    "question": "What was the reason for the yaw control being placed in the reaction control pulse mode?",
+    "answer": "Because rates could not be completely nulled.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 162,
+    "question": "How long did it take to fully charge battery A in the command module?",
+    "answer": "15 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 163,
+    "question": "What unexpected motion occurred in the lunar module due to the venting of the supercritical helium tank?",
+    "answer": "Pitch motion.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 163,
+    "question": "How long did it take to fully charge the command module battery A?",
+    "answer": "15 hours.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 164,
+    "question": "How long did it take to charge battery A in the command module?",
+    "answer": "15 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 164,
+    "question": "Who controlled the spacecraft during the sun/moon alignment?",
+    "answer": "The Lunar Module Pilot",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 165,
+    "question": "What was completed about 7 hours prior to entry?",
+    "answer": "Equipment transfer and stowage in both the command module and lunar module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 165,
+    "question": "Who controlled the spacecraft during the final midcourse correction maneuver?",
+    "answer": "The Lunar Module Pilot.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 166,
+    "question": "What was the purpose of the lunar module powerup for the final midcourse correction maneuver?",
+    "answer": "The lunar module powerup was performed according to the prescribed contingency checklist.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 166,
+    "question": "What was the method used to acquire the sun and moon alignment for the midcourse maneuver?",
+    "answer": "The spacecraft was controlled by the Lunar Module Pilot from commands given by the Commander, who responded when the reticle lines bisected the moon and solar disks.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 167,
+    "question": "What was the procedure used for the initial maneuver to the firing attitude for the final midcourse correction?",
+    "answer": "The procedure used the earth as a reference, similar to the previous maneuver.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 167,
+    "question": "What was the purpose of the minus 0.5-ft/sec translation maneuver after service module jettison?",
+    "answer": "The purpose was to remove the previously added velocity and preclude service module recontact.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 168,
+    "question": "What was the velocity correction provided by the lunar module reaction control system during the maneuver?",
+    "answer": "2.9-ft/sec",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 168,
+    "question": "What was the result of the jettison dynamics on the undocked vehicles?",
+    "answer": "They pitched down about 10 degrees",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 169,
+    "question": "What was the purpose of the minus 0.5-ft/sec translation maneuver after service module jettison?",
+    "answer": "To remove the previously added velocity and preclude service module recontact.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 169,
+    "question": "What type of film was used in the sequence camera?",
+    "answer": "Surface color film.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 170,
+    "question": "What was the condition of the service module when it first appeared in the docking window?",
+    "answer": "The entire bay 4 outer panel was missing, and torn Mylar insulation was seen protruding from the bay.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 170,
+    "question": "What type of film was used in the sequence camera?",
+    "answer": "Surface color film.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 171,
+    "question": "What was the reason for the difficulty in seeing or photographing details inside the service module?",
+    "answer": "The brilliant reflections from the Mylar insulation.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 171,
+    "question": "What was the problem that impeded command module optics operation?",
+    "answer": "Particles venting from the command module umbilical area.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 172,
+    "question": "What was the reason for the poor star visibility during the command module alignment?",
+    "answer": "Light reflecting from the lunar module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 172,
+    "question": "What was the complication encountered during the lunar module undocking maneuver?",
+    "answer": "Gimbal lock of both spacecraft platforms.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 173,
+    "question": "What was the reason for the unfavorable spacecraft attitude delayed communications signal lockup?",
+    "answer": "The unfavorable spacecraft attitude delayed communications signal lockup due to the command module computer activation.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 173,
+    "question": "What was the result of the lunar module jettison?",
+    "answer": "The lunar module was stable as it translated away using only tunnel pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 174,
+    "question": "What was the procedure used to avoid gimbal lock of both spacecraft platforms during the lunar module's undocking maneuver?",
+    "answer": "A complicated procedure using the lunar module platform and close cooperation between the Commander and Command Module Pilot.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 174,
+    "question": "What was the differential pressure during the command module hatch integrity check?",
+    "answer": "3.4 psi.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 175,
+    "question": "What was the differential pressure during the command module hatch integrity check?",
+    "answer": "3.4 psi",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 175,
+    "question": "What was the first acceleration peak during the guided entry?",
+    "answer": "Approximately 5g",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 176,
+    "question": "What was the heart rate of the Lunar Module Pilot just prior to the incident?",
+    "answer": "72",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 176,
+    "question": "What was the respiratory rate of the Command Module Pilot just prior to the incident?",
+    "answer": "15",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 177,
+    "question": "What type of flotation equipment was passed to the crew by recovery personnel?",
+    "answer": "Standard Navy life vests",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 177,
+    "question": "What was the heart rate of the Lunar Module Pilot during the entry phase?",
+    "answer": "100 to 125 beats/min",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 178,
+    "question": "What was the heart rate of the Lunar Module Pilot during the entry phase?",
+    "answer": "100 to 125 beats/min",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 178,
+    "question": "What did the Lunar Module Pilot experience after taking two aspirin on the second day of the mission?",
+    "answer": "He became nauseated, vomited once, and then experienced no further nausea.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 179,
+    "question": "What was the heart rate range of the Command Module Pilot during the entry phase?",
+    "answer": "60 to 70 beats/min",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 179,
+    "question": "What was the reason for the Lunar Module Pilot's increased heart rate?",
+    "answer": "An inflight illness detected after flight",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 180,
+    "question": "What was the allowable limit of carbon dioxide buildup in the lunar module atmosphere?",
+    "answer": "15mm Hg",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 180,
+    "question": "How long did the Lunar Module Pilot sleep during the second sleep period?",
+    "answer": "9 hours",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 181,
+    "question": "What was the allowable limit of carbon dioxide buildup in the lunar module atmosphere?",
+    "answer": "15mm Hg",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 181,
+    "question": "How many hours did the Lunar Module Pilot sleep during the first sleep period?",
+    "answer": "5 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 182,
+    "question": "How many hours did the Lunar Module Pilot sleep during the first sleep period?",
+    "answer": "9 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 182,
+    "question": "What was the nickel content found in the command module hot water port?",
+    "answer": "0.05 mg/l",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 183,
+    "question": "What was the estimated total sleep obtained by the Lunar Module Pilot during the remainder of the mission after the incident?",
+    "answer": "19 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 183,
+    "question": "What was the reason for the crew rationing water after the oxygen tank incident?",
+    "answer": "The crew rationed water and used it sparingly after the oxygen tank incident.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 184,
+    "question": "What was the acceptable level of nickel content in the command module's hot water port?",
+    "answer": "$0.05~\\mathrm{mg/1}$",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 184,
+    "question": "What was the reason for the crew rationing water after the oxygen tank incident?",
+    "answer": "The crew rationed water to conserve it during the abort phase.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 185,
+    "question": "How much water was consumed by each crewman after the oxygen tank incident?",
+    "answer": "Not more than 24 ounces",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 185,
+    "question": "What was the main reason for the crew to drink juices instead of plain water during the abort phase?",
+    "answer": "To help maintain their electrolyte balance",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 186,
+    "question": "What was the crew's difficulty with the food packaging and stowage?",
+    "answer": "Removing the meal packages from the lower equipment bay food container and replacing some uneaten food items.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 186,
+    "question": "What was the recommended change to the bread packages to prevent dryness?",
+    "answer": "Attaching Velcro patches to the bread packages.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 187,
+    "question": "What was the net integrated dose of the Command Module Pilot's dosimeter?",
+    "answer": "410 mrad",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 187,
+    "question": "What was the absorbed dose from ionizing radiation?",
+    "answer": "approximately 250 mrad",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 188,
+    "question": "What was the final reading from the Command Module Pilot's dosimeter?",
+    "answer": "410 mrad",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 188,
+    "question": "What was the absorbed dose from ionizing radiation that the crewmen received?",
+    "answer": "approximately 250 mrad",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 189,
+    "question": "What was the absorbed dose from ionizing radiation experienced by the crew?",
+    "answer": "Approximately 250 mca",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 189,
+    "question": "What was the nature of the visual phenomena observed by the crew?",
+    "answer": "Point flashes or streaks of white light",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 190,
+    "question": "What was the reason for the failure to obtain a correct oral temperature inflight?",
+    "answer": "A procedural error resulted in the failure to obtain a correct oral temperature inflight.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 190,
+    "question": "What was the primary Command Module Pilot exposed to eight days before flight?",
+    "answer": "rubella (German measles)",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 191,
+    "question": "What was the primary reason for replacing the primary Command Module Pilot before the launch?",
+    "answer": "The primary Command Module Pilot had no immunity to rubella.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 191,
+    "question": "What was the condition of the Lunar Module Pilot's physical examination after the flight?",
+    "answer": "The physical examination was normal, but the Lunar Module Pilot had a urinary tract infection and episodes of dizziness.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 192,
+    "question": "Who was replaced as the primary Command Module Pilot due to exposure to rubella?",
+    "answer": "The backup Command Module Pilot.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 192,
+    "question": "What was the reason for the Lunar Module Pilot's dizziness during his postflight physical examination?",
+    "answer": "Fatigue, the effects of weightlessness, and the urinary tract infection.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 193,
+    "question": "What was the cause of the Lunar Module Pilot's dizziness during his postflight physical examination?",
+    "answer": "Fatigue, the effects of weightlessness, and a urinary tract infection.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 193,
+    "question": "What was the reason for the special venting procedure in the lunar module descent propulsion system?",
+    "answer": "The supercritical helium pressure increased at an abnormally high rate before launch.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 194,
+    "question": "What was the primary reason for the flight control decisions made by the crew at 56 hours?",
+    "answer": "The two tanks containing cryogenic oxygen experienced a problem.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 194,
+    "question": "What was the result of powering down the command and service module systems?",
+    "answer": "To conserve consumables for entry.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 195,
+    "question": "What was the condition that occurred in the tanks containing cryogenic oxygen at about 56 hours into the mission?",
+    "answer": "The condition resulted in the need to abort the primary mission and attempt a safe return to earth as rapidly as possible.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 195,
+    "question": "What was the primary plan for a safe and quick return to earth?",
+    "answer": "An immediate descent engine firing to a free-return circumlunar trajectory, with a pericynthion-plus-2-hour maneuver (transearth injection).",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 196,
+    "question": "What was the plan for a safe and quick return to Earth?",
+    "answer": "The plan required an immediate descent engine firing to a free-return circumlunar trajectory, with a pericynthion-plus-2-hour maneuver (transearth injection) to expedite the landing to about 142:30:00.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 196,
+    "question": "What was the purpose of monitoring consumables on the spacecraft?",
+    "answer": "To assess the margins of electrical power and cooling water.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 197,
+    "question": "What procedure was used to remove carbon dioxide in the lunar module environmental control system?",
+    "answer": "Lithium hydroxide cartridges",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 197,
+    "question": "What was the primary function of the Mission Control Center and the Manned Space Flight Network during the mission?",
+    "answer": "Providing excellent support throughout the mission",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 198,
+    "question": "What was the primary reason for the procedures established before entry in the Apollo 13 mission?",
+    "answer": "To determine the procedures to be used immediately prior to and during entry.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 198,
+    "question": "How long did it take to regain data lock-up after a momentary data loss occurred in the Mission Control Center and the Manned Space Flight Network?",
+    "answer": "A few minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 199,
+    "question": "What was the role of the helicopter designated \"Photo\" in the recovery operations?",
+    "answer": "It was used as a photographic platform.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 199,
+    "question": "How many ships were available for supporting an Atlantic Ocean landing?",
+    "answer": "51",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 200,
+    "question": "What was the name of the prime recovery ship for the Apollo 13 mission?",
+    "answer": "USS Iwo Jima",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 200,
+    "question": "How many ships were available for supporting an Atlantic Ocean landing?",
+    "answer": "51",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 201,
+    "question": "What was the primary recovery ship for the Apollo 13 mission?",
+    "answer": "USS Iwo Jima",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 201,
+    "question": "How many helicopters were added to the end-of-mission array later in the mission?",
+    "answer": "Two HC-l30H aircraft were added to the end-of-mission array.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 202,
+    "question": "What type of aircraft was used for command module retrieval?",
+    "answer": "HH-3E and HH-53C Helicopters",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 202,
+    "question": "From which location were HC-130H fixed wing aircraft staged for primary end-of-mission support?",
+    "answer": "McCoy AFB, Florida; Pease AFB, New Mexico; and Lajes AFB, 'Azores",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 203,
+    "question": "What type of aircraft was staged from Patrick AFB, Florida?",
+    "answer": "HH-3E and HH-53C Helicopters",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 203,
+    "question": "What was the accuracy of the position of the command module landing point?",
+    "answer": "500 yards",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 204,
+    "question": "What was the position of the Iwo Jima ship at the time of the spacecraft landing?",
+    "answer": "21 degrees 34.7 minutes south latitude and 165 degrees 23.2 minutes west longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 204,
+    "question": "At what time did the command module land?",
+    "answer": "1807 G.m.t.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 205,
+    "question": "What time did the command module land?",
+    "answer": "1807 G.m.t.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 205,
+    "question": "What was the location of the command module retrieval?",
+    "answer": "21 degrees 39.1 minutes south latitude and 165 degrees 20.9 minutes west longitude",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 206,
+    "question": "What was the time of the command module's landing?",
+    "answer": "1807 G.m.t.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 206,
+    "question": "Where was the command module taken after its retrieval?",
+    "answer": "Hickam Air Force Base",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 207,
+    "question": "What was the location where the command module retrieval took place?",
+    "answer": "21 degrees 39.1 minutes south latitude and 165 degrees 20.9 minutes west longitude",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 207,
+    "question": "How long after the flight crew egressed the command module did the recovery helicopter arrive onboard?",
+    "answer": "7 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 208,
+    "question": "Where was the command module taken after being offloaded from the Iwo Jima in Hawaii?",
+    "answer": "Hickam Air Force Base",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 208,
+    "question": "What was completed on April 25, 1970?",
+    "answer": "Deactivation of the fuel and oxidizer",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 209,
+    "question": "What was the date of the flight crew's arrival in Houston after the recovery?",
+    "answer": "April 20",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 209,
+    "question": "What was the condition of the interior surfaces of the command module after recovery?",
+    "answer": "very damp and cold, assumed to be condensation",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 210,
+    "question": "What was the condition of the interior surfaces of the command module during the postrecovery inspection?",
+    "answer": "They were very damp and cold, assumed to be condensation.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 210,
+    "question": "What was the status of the postlanding ventilation exhaust valve during the postrecovery inspection?",
+    "answer": "It was open.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 211,
+    "question": "What was the condition of the interior surfaces of the command module after the mission?",
+    "answer": "The interior surfaces of the command module were very damp and cold, assumed to be condensation.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 211,
+    "question": "What was the purpose of the experiments described in section 11.1?",
+    "answer": "To study certain aspects of launch-phase electrical phenomena.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 212,
+    "question": "What type of experiments were performed prior to and during the Apollo l3 launch to study launch-phase electrical phenomena?",
+    "answer": "Measurements of the atmospheric electric field, low-frequency and very-low-frequency radio noise, the air/earth current density, and the electrical current flowing in the earth's surface.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 212,
+    "question": "What was the maximum electric field perturbation recorded at site 7 during the Apollo launch?",
+    "answer": "1200 volts/meter",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 213,
+    "question": "What was the purpose of the special device operated at site 5?",
+    "answer": "To measure rapid changes in the electric field.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 213,
+    "question": "What caused the large fluctuations in the record at site 6?",
+    "answer": "Gravel and dust stirred up by the exhaust of the launch vehicle engine.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 214,
+    "question": "What was the maximum electric field perturbation recorded at site 7 after the launch?",
+    "answer": "1200 volts/meter",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 214,
+    "question": "What could have caused the large fluctuations superimposed on the record at site 6?",
+    "answer": "Gravel and dust stirred up by the exhaust of the launch vehicle engine",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 215,
+    "question": "What was the probable cause of the large negative field of approximately minus 3000 volts/meter at site 6 after the oscillations had subsided at T plus 40 seconds?",
+    "answer": "The exhaust and steam clouds that tended to remain over site 6.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 215,
+    "question": "At which sites were the corresponding recorders started several hours prior to launch but unfortunately stopped before lift-off?",
+    "answer": "Sites 8 and 9.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 216,
+    "question": "What was the total charge carried by the Apollo 13 vehicle?",
+    "answer": "0.04 coulomb",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 216,
+    "question": "What was the potential energy of the stored charge of 0.04 coulomb at a potential of 4 million volts?",
+    "answer": "160,000 joules",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 217,
+    "question": "What was the total charge carried by the Apollo 3 vehicle?",
+    "answer": "0.04 coulomb",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 217,
+    "question": "What was the potential energy provided by the stored charge of 0.04 coulomb at a potential of 4 million volts?",
+    "answer": "160,000 joules",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 218,
+    "question": "What was the potential of the Apollo L3 vehicle due to a stored charge of 0.04 coulomb and a capacitance of 100 picofarads?",
+    "answer": "4 million volts",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 218,
+    "question": "What was the electrostatic potential energy provided by a stored charge of 0.04 coulomb at a potential of 4 million volts?",
+    "answer": "160,000 joules",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 219,
+    "question": "What is the reason for the electrostatic potential developed on an aircraft?",
+    "answer": "The engine charging current, which is balanced by the corona current loss from the aircraft.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 219,
+    "question": "At what time after lift-off did the radio noise become enhanced at the lower frequencies?",
+    "answer": "About 15 seconds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 220,
+    "question": "What type of radio noise was produced by the Saturn V vehicle during launch?",
+    "answer": "Corona discharges",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 220,
+    "question": "Why did the telluric current system fail to detect any launch effects?",
+    "answer": "The high density of metallic conductors in the ground near the launch site may have functioned as a short circuit.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 221,
+    "question": "What is the expected time for the most intense corona discharges to occur after the launch vehicle and its exhaust plume clear the launch tower?",
+    "answer": "soon after",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 221,
+    "question": "What might have caused the telluric current system to fail to detect any launch effects?",
+    "answer": "a short circuit due to the high density of metallic conductors in the ground near the launch site",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 222,
+    "question": "What was the expected outcome of the telluric current experiment in relation to the vehicle exhaust plume breaking effective electrical contact with the ground?",
+    "answer": "An increase in the current level.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 222,
+    "question": "What was the primary requirement for accurate long-range numerical weather prediction?",
+    "answer": "The determination of the wind field in the atmosphere.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 223,
+    "question": "When were the first two balloons launched?",
+    "answer": "April 9, 1970",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 223,
+    "question": "What is the prime requirement for accurate long-range numerical weather prediction?",
+    "answer": "The determination of the wind field in the atmosphere",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 224,
+    "question": "What is the main difficulty in measuring wind fields in the atmosphere?",
+    "answer": "The desired sample density.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 224,
+    "question": "What method was used to determine cloud height in the past?",
+    "answer": "Stereographic photogrammetry on low altitude photographs taken from Apollo 6.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 225,
+    "question": "What type of photographs were planned to be taken from an Apollo lunar mission?",
+    "answer": "Earth-centered photographs",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 225,
+    "question": "What was the reason for the small disparity angles involved in stereoscopic determination of cloud heights from geosynchronous altitudes?",
+    "answer": "The small disparity angles involved were due to the geosynchronous satellites being located only 10 to 20 degrees apart in longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 226,
+    "question": "How many photographs were taken for the test of the feasibility of performing stereoscopic determination of cloud height at synchronous altitudes?",
+    "answer": "Eleven",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 226,
+    "question": "What was the reason for the unavailability of Advanced Technology Satellite I on the day of photography?",
+    "answer": "It was out of operation",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 227,
+    "question": "What is the reason for the pronounced apparent relief seen in the cloud patterns when viewing frames 8590 and 8591 under a stereoscope?",
+    "answer": "The relief results, in part, from the relative horizontal motion in the cloud fields.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 227,
+    "question": "What is the purpose of normalizing the photographs in the table?",
+    "answer": "The earth is the same size in all frames.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 228,
+    "question": "What was the speed of the S-IVB at the time of impact?",
+    "answer": "5600 miles/hr",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 228,
+    "question": "What was the energy release equivalent to the S-IVB impact?",
+    "answer": "7.7 tons of trinitrotoluene (TNT)",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 229,
+    "question": "What was the speed of the S-IVB at the time of impact?",
+    "answer": "5600 miles/hr",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 229,
+    "question": "How long did the seismic signals from the S-IVB impact continue?",
+    "answer": "over 4 hours",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 230,
+    "question": "At what speed was the S-IVB traveling when it impacted the lunar surface?",
+    "answer": "5600 miles/hr",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 230,
+    "question": "What was the equivalent energy release from the S-IVB impact?",
+    "answer": "7.7 tons of trinitrotoluene (TNT)",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 231,
+    "question": "How long did seismic signals from the S-IVB impact continue?",
+    "answer": "over 4 hours",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 231,
+    "question": "What was the peak signal intensity of the S-IVB impact?",
+    "answer": "8 times larger than that recorded from the Apollo 12 ascent stage impact",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 232,
+    "question": "What was the velocity of the S-IVB seismic energy as it travelled to the seismic station?",
+    "answer": "4.8 km/sec",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 232,
+    "question": "What was the depth of the moon's outer shell that may be formed from the same crystalline rock material as found at the surface?",
+    "answer": "20 kilometers",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 233,
+    "question": "What was the main reason for the interest in studying the S-IVB impact on the moon?",
+    "answer": "The fact that precise targeting accuracy was possible, resulting in large seismic signals.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 233,
+    "question": "What was the primary objective of the Apollo 13 mission?",
+    "answer": "Perform selenological inspection, survey, and sampling of materials in a preselected region of the Fra Mauro formation.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 234,
+    "question": "What were the two launch vehicle secondary objectives assigned for the mission?",
+    "answer": "Attempt to impact the expended S-IVB stage on the lunar surface and postflight determination of the actual time and location of S-IVF impact.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 234,
+    "question": "What was the outcome of the mission's primary objectives?",
+    "answer": "None of the primary objectives were accomplished because the mission was aborted.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 235,
+    "question": "What was the objective of the S-IVB stage impact on the lunar surface?",
+    "answer": "To excite the Apollo 12 seismometer.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 235,
+    "question": "Where was the Apollo 13 space vehicle launched from?",
+    "answer": "Pad A of complex 39, Kennedy Space Center, Florida.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 236,
+    "question": "What was the targeted impact point of the S-IVB stage on the lunar surface?",
+    "answer": "3 degrees south latitude and 30 degrees west longitude",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 236,
+    "question": "What was the reason for the premature cutoff of the S-II center engine during the launch?",
+    "answer": "High-amplitude, low-frequency oscillations",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 237,
+    "question": "What was the outcome of the pilot describing function experiment (T-029)?",
+    "answer": "The data obtained during the experiment were available to the principle investigator.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 237,
+    "question": "What was the result of the premature cutoff of the S-II center engine?",
+    "answer": "The launch vehicle achieved all its objectives despite the anomaly.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 238,
+    "question": "What was the flight azimuth of the vehicle after the roll maneuver at 12.6 seconds?",
+    "answer": "72.043 degrees east of north",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 238,
+    "question": "How much later than predicted did the event of orbital insertion occur due to the reduced effective thrust?",
+    "answer": "44.07 seconds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 239,
+    "question": "What caused the premature cutoff of the center engine during the S-II boost?",
+    "answer": "High amplitude longitudinal oscillations.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 239,
+    "question": "What is being incorporated on future vehicles to suppress vibration amplitudes?",
+    "answer": "An accumulator in the center-engine liquid oxygen line.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 240,
+    "question": "What was the cause of the premature cutoff of the center engine during the S-II boost?",
+    "answer": "High amplitude longitudinal oscillations.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 240,
+    "question": "What was the purpose of the pilot describing function experiment (T-029) on the Apollo 13 mission?",
+    "answer": "To obtain data during manually controlled spacecraft maneuvers.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 241,
+    "question": "What was the cause of the sharp \"bang\" heard and felt by the crew during the Apollo 13 mission?",
+    "answer": "A sharp \"bang\" was caused by a computer restart and a main-bus-B undervoltage condition.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 241,
+    "question": "What was the first indication of a problem in cryogenic oxygen tank 2 during the Apollo 13 mission?",
+    "answer": "The quantity gage went to a full-scale reading at 46 hours 40 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 242,
+    "question": "What caused the pressure increase in oxygen tank 2 during the Apollo 13 mission?",
+    "answer": "Electrical shorts in the fan circuit ignited the wire insulation, causing pressure and temperature increases within oxygen tank 2.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 242,
+    "question": "At what time did the first indication of a problem in cryogenic oxygen tank 2 occur?",
+    "answer": "46 hours 40 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 243,
+    "question": "What was the first indication of a problem in cryogenic oxygen tank 2?",
+    "answer": "The quantity gage went to a full-scale reading at 46 hours 40 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 243,
+    "question": "What caused the tank line to burst?",
+    "answer": "Burning of the wire insulation reached the electrical conduit leading from inside the tube to the external plug.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 244,
+    "question": "What caused the pressure increase in oxygen tank 2?",
+    "answer": "Electrical shorts in the fan circuit ignited the wire insulation.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 244,
+    "question": "What was the result of the panel separation shock?",
+    "answer": "The high-gain antenna switched from narrow beam to wide beam, and several valves were closed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 245,
+    "question": "What caused the tank line to burst?",
+    "answer": "Burning of the wire insulation reached the electrical conduit leading from inside the tube to the external plug.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 245,
+    "question": "How long did data lose occur due to the high-gain antenna switching from narrow beam to wide beam?",
+    "answer": "about 1.8 seconds",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 246,
+    "question": "What was the reason for the high-gain antenna switching from narrow beam to wide beam?",
+    "answer": "The panel, when separating, struck and damaged one of the antenna dishes.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 246,
+    "question": "What was the result of the loss of performance by two of the three fuel cells?",
+    "answer": "Numerous associated master alarms occurred as expected.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 247,
+    "question": "What was the primary cause of the translation change experienced by the vehicle?",
+    "answer": "The translation change was primarily in a plane normal to bay 4.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 247,
+    "question": "What was the reason for the loss of performance by two of the three fuel cells?",
+    "answer": "The fuel cells consumed the oxygen trapped in the plumbing, reducing the pressure below minimum requirements.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 248,
+    "question": "What was the reason for changing the cryogenic oxygen tank design?",
+    "answer": "To eliminate the mechanisms which could initiate burning within the tank and ultimately lead to a structural failure of the tank or its components.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 248,
+    "question": "What was the problem with the postlanding ventilation inlet valve?",
+    "answer": "The valve was closed due to a partially pulled postlanding vent valve unlock handle.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 249,
+    "question": "What was the condition found with the postlanding vent valve unlock handle partially out?",
+    "answer": "The vent valve unlock handle was partially out instead of completely out.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 249,
+    "question": "What was the result of testing the operation of the valves with different pull positions of the handle from locked to full open?",
+    "answer": "With the handle extended from 5/16 to 3/8 inch from the valve locked position, the exhaust valve opened but the inlet valve remained closed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 250,
+    "question": "What was the condition of the inlet valve locking pin that caused the malfunction?",
+    "answer": "The inlet valve locking pin was not in the full open position.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 250,
+    "question": "What was the result of extending the handle from 5/16 to 3/8 inch from the valve locked position?",
+    "answer": "The exhaust valve opened but the inlet valve remained closed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 251,
+    "question": "What was the condition of the valve operation when the handle was extended from 5/16 to 3/8 inch from the valve locked position?",
+    "answer": "The exhaust valve opened but the inlet valve remained closed.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 251,
+    "question": "What was added to the Apollo Operations Handbook to prevent similar valve operation issues in the future?",
+    "answer": "A caution note to actuate the ventilation valve handle over its full travel before switching on the postlanding vent fan.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 252,
+    "question": "What was the cause of the malfunction in the valve-lock mechanism?",
+    "answer": "The malfunction was caused by the partial travel of the handle.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 252,
+    "question": "What was the recommended procedure to prevent similar operational problems in the future?",
+    "answer": "Actuate the ventilation valve handle over its full travel before switching on the postlanding vent fan.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 253,
+    "question": "What was the cause of the fluctuations in the computer readout of the optics shaft angle during the Apollo mission?",
+    "answer": "The fluctuations were caused by motion of the shaft.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 253,
+    "question": "What was the outcome of the investigation conducted after the Apollo 12 mission?",
+    "answer": "No definite source of the problem was identified due to extreme corrosion from sea water.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 254,
+    "question": "What was the outcome of the investigation conducted after Apollo 12?",
+    "answer": "No abnormal indications were found in the Apollo 12 system.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 254,
+    "question": "What was considered a likely candidate for a random failure in the Apollo system?",
+    "answer": "The isolation across a transformer in the tachometer feedback compensation network.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 255,
+    "question": "What was the likely cause of the problem that occurred in the Apollo 12 system?",
+    "answer": "The half-speed resolver.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 255,
+    "question": "What type of resolver was used in the shaft loop?",
+    "answer": "A half-speed resolver.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 256,
+    "question": "What is the most likely candidate causing the problem in the shaft axis?",
+    "answer": "The half-speed resolver",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 256,
+    "question": "How does resistance in the slip ring affect the output of the half-speed resolver?",
+    "answer": "It induces a finite output (different than zero)",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 257,
+    "question": "What type of resolver is used for the shaft axis in the described system?",
+    "answer": "Half-speed resolver",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 257,
+    "question": "What is the effect of a 50-ohm impedance in the slip ring on the shaft angle output of the half-speed resolver?",
+    "answer": "An offset of approximately plus 0.5 degree in sextant shaft angle",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 258,
+    "question": "What was the cause of the momentary resistance changes observed in the slip ring resistance during thermal vacuum testing?",
+    "answer": "The momentary resistance changes were caused by the wiping action of the rotation of the optics head.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 258,
+    "question": "What was the effect of the high resistance on the brush/slip rings of the resolver?",
+    "answer": "The high resistance had no effect on the accurate zeroing of the system, but it affected the system readout when not in use.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 259,
+    "question": "What was the cause of the high-Gain Antenna Acquisition Problem experienced by the crew?",
+    "answer": "The high-gain antenna was set to a manual mode that was 35 degrees away from the line of sight to the ground station.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 259,
+    "question": "What was the expected outcome of the high resistance on the brush/slip rings of the resolver?",
+    "answer": "Accurate zeroing was unaffected, and there was no effect on the operation of the system other than system readout when not in use.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 260,
+    "question": "What was the difference between the two sets of angles that pointed the antenna boresight axis away from the line of sight to the ground station?",
+    "answer": "Approximately 35 degrees",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 260,
+    "question": "What was the effect of switching the transmission from the omnidirectional antenna to the manual mode of the high-gain antenna?",
+    "answer": "A 6 dB decrease in uplink signal strength and a 17 dB decrease in downlink signal strength",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 261,
+    "question": "What was the effect of switching from an omnidirectional antenna to a high-gain antenna in terms of uplink signal strength?",
+    "answer": "There was a 6 dB decrease in uplink signal strength.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 261,
+    "question": "What was the antenna mode at the time of acquisition and until the reacquisition mode was selected at 55:00:10?",
+    "answer": "The high-gain antenna mode was in a medium-beam, manual mode.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 262,
+    "question": "What type of malfunction can cause the signature of deep repetitive transients approximately every 5 seconds on the phase modulated downlink carrier?",
+    "answer": "A malfunction that shifts the scan-limit and scan-limit-warning function lines.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 262,
+    "question": "What is the purpose of the antenna control logic switching the system to the manual mode when the antenna reaches the scan limit function line?",
+    "answer": "To drive back toward the manual settings until the scan limit warning function line is reached.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 263,
+    "question": "What was the purpose of the manual mode in the antenna control system?",
+    "answer": "To maintain wide-beam operation.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 263,
+    "question": "What was the outcome of the test where elements in the scan-limit and scan-limit-warning circuit were shorted and opened?",
+    "answer": "The scan-limit functions shifted but the necessary change in the scan-limit slope was not produced.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 264,
+    "question": "What was the purpose of the manual settings in the described antenna system?",
+    "answer": "To maintain wide-beam operation and switch to medium-beam mode when the scan limit was reached.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 264,
+    "question": "What was the suspected cause of the shift in the scan-limit functions?",
+    "answer": "A failure in the C-axis induction potentiometer located in the antenna.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 265,
+    "question": "What was the reason for the cyclic RF signature observed in the system testing?",
+    "answer": "The cyclic RF signature was produced by the antenna cycling between the target and the manual setting while operating in the auto-reacquisition mode.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 265,
+    "question": "What was the failure mode of the C-axis induction potentiometer identified in the analysis?",
+    "answer": "A short in the stator excitation winding.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 266,
+    "question": "What type of winding is used to shift the normal +70 degrees linear output to a new linear output over the range of from minus 10 to plus 130 degrees in the C-axis induction potentiometer?",
+    "answer": "The compensation or bias winding",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 266,
+    "question": "What is the possible cause of the failure of the entry monitor system 0.05g light?",
+    "answer": "The failure could be in the light, in the 0.05g sensing mechanism, or in the mode switch",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 267,
+    "question": "What is the failure mode of the C-axis induction potentiometer?",
+    "answer": "A short in the stator excitation winding.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 267,
+    "question": "What was the result of the cold soak test performed on the entry monitor system?",
+    "answer": "The system operated normally throughout all tests.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 268,
+    "question": "What was the primary issue with the entry monitor system in the 14.1.5 anomaly?",
+    "answer": "The 0.05g light did not illuminate within 3 seconds after an 0.05g condition was sensed by the guidance system.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 268,
+    "question": "What was the conclusion of the investigation into the 14.1.5 anomaly?",
+    "answer": "The problem was most likely caused by the Command Module Pilot responding too quickly to the $0.05g$ light not coming on or by an intermittent hardware failure that cleared itself during entry.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 269,
+    "question": "What was the likely cause of the flight problem?",
+    "answer": "The problem was most likely caused either by the Command Module Pilot responding too quickly to the $0.05$ light not coming on or by an intermittent hardware failure that cleared itself during entry.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 269,
+    "question": "What was the cause of the gas leak in the Apex Cover Jettison System?",
+    "answer": "The O-ring and backup ring were burned through and the metal parts were eroded by the hot gas at the leak path.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 270,
+    "question": "What was the likely cause of the problem with the Command Module Pilot responding to the $0.05$ light?",
+    "answer": "The Command Module Pilot responding too quickly to the $0.05$ light not coming on or by an intermittent hardware failure.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 270,
+    "question": "What was the possible cause of the gas leakage in the Apex Cover Jettison System?",
+    "answer": "A gap in the backup ring.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 271,
+    "question": "What was the cause of the gas leakage in the gusset-4 breech assembly?",
+    "answer": "A gap in the backup ring could have caused the problem.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 271,
+    "question": "What was the solution implemented to protect against the possibility of leaking gas with the existing design?",
+    "answer": "A thermal barrier of polyimide sheet was applied to the interior of the breech plenum area.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 272,
+    "question": "What was the cause of the gas leakage in the apex cover jettison system?",
+    "answer": "A gap in the backup ring could have caused the problem.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 272,
+    "question": "What was the reason for the reaction control isolation valve failure?",
+    "answer": "The lead from the fuel valve closing coil was wired to an unused pin on a terminal board instead of to the proper pin.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 273,
+    "question": "What was the cause of the miswiring in the fuel isolation valve?",
+    "answer": "The lead from the fuel valve closing coil was wired to an unused pin on a terminal board instead of to the proper pin.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 273,
+    "question": "What was the result of the inductive coupling in the isolation valve circuit?",
+    "answer": "A reverse-polarity voltage was generated in the oxidizer valve opening coil, which induced a magnetic field flux that closed the fuel valve.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 274,
+    "question": "What was the reason for the miswired valve passing the functional checks during buildup and checkout?",
+    "answer": "The valve could be closed through an inductive coupling with the oxidizer-valve closing coil.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 274,
+    "question": "What type of testing will be performed on the isolation valves in the future?",
+    "answer": "Resistance checks will be performed.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 275,
+    "question": "What was the reason for the fluctuations in the potable water quantity measurement during the mission?",
+    "answer": "Moisture contamination within the transducer.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 275,
+    "question": "What was the result of disassembling the Apollo 13 transducer and water tank?",
+    "answer": "No evidence of either contamination or corrosion was found.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 276,
+    "question": "What was the cause of the potable water quantity measurement fluctuation during the Apollo 8 mission?",
+    "answer": "Moisture contamination within the transducer.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 276,
+    "question": "What is the significance of the potable water quantity measurement for the mission?",
+    "answer": "The measurement is not essential for flight safety or mission success.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 277,
+    "question": "What was the cause of the erratic behavior of the transducer in Apollo 8?",
+    "answer": "Moisture contamination within the transducer.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 277,
+    "question": "What was the effect of the suit pressure transducer failure on the cabin pressure reading?",
+    "answer": "The reading remained consistent until 00:02:45, then dropped from 6.7 to 5.7 psia.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 278,
+    "question": "What was the cause of the erratic behavior of the suit pressure transducer in the Apollo 13 mission?",
+    "answer": "Internal contamination from electroless nickel plating particles.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 278,
+    "question": "What was the effect of the suit pressure transducer failure on the cabin pressure reading in the Apollo 13 mission?",
+    "answer": "The measurement output decayed and remained in the 4.1 to 4.3 psia range for a cabin pressure of 5.0 psia.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 279,
+    "question": "What was the cause of the erratic behavior of the suit pressure transducer on the Apollo 12 and 13 missions?",
+    "answer": "Internal contamination from electroless nickel plating particles.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 279,
+    "question": "What was the probable cause of the poor performance of the suit pressure transducer?",
+    "answer": "Poor plating adhesion to the aluminum base metal.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 280,
+    "question": "What was the probable cause of the problem with the pressure transducers in the Apollo missions?",
+    "answer": "Poor plating adhesion to the aluminum base metal.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 280,
+    "question": "What was the solution implemented for the pressure transducers in the Apollo 15 and subsequent missions?",
+    "answer": "The suit and cabin pressure transducers were disassembled, cleaned, and reassembled, with the suit pressure transducers reassembled without soldering.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 281,
+    "question": "What is the probable cause of the problem with the pressure transducer's nickel plating?",
+    "answer": "Poor plating adhesion to the aluminum base metal.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 281,
+    "question": "What was the solution to the problem with the Apollo 14 cabin pressure transducer?",
+    "answer": "The plating was inspected, the instrument was cleaned, reassembled, and installed.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 282,
+    "question": "What contaminants were found in the cabin and suit loop pressure transducers?",
+    "answer": "Solder flux, glass beads, and fibers from the wipers used in the transducer manufacturer's clean room.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 282,
+    "question": "What was the reason for the gas leak in the electrical circuit interrupter?",
+    "answer": "Propellant gas escaped from the left-hand electrical circuit interrupter.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 283,
+    "question": "What is the function of the cam fork in the electrical circuit interrupter?",
+    "answer": "The cam fork is used to disconnect the male and female portions of electrical connectors.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 283,
+    "question": "At what percentage of attenuator block crushing can an O-ring displacement and gas escape be expected?",
+    "answer": "94 percent",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 284,
+    "question": "What is the purpose of the cam fork in the interrupter?",
+    "answer": "The cam fork is used to disconnect the male and female portions of electrical connectors.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 284,
+    "question": "What is the consequence of the piston O-ring being 0.075 inch from entering the chamfer in the breech assembly?",
+    "answer": "An O-ring displacement and accompanying gas escape could be expected.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 285,
+    "question": "What is the percentage of the attenuator block that needs to be crushed before an O-ring displacement and gas escape could be expected?",
+    "answer": "94 percent",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 285,
+    "question": "Why was the helium pressure in the Apollo 13 lunar module not raised to 900 psia using normal procedures?",
+    "answer": "Because 100 hours would have been required and the launch schedule would have been impacted",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 286,
+    "question": "What was the predicted tank condition at the time of descent engine firing for lunar descent?",
+    "answer": "Approximately 900 psia pressure and 48 pounds of helium.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 286,
+    "question": "Why were normal procedures not used to reach 900 psia in the helium tank?",
+    "answer": "Because 100 hours would have been required and the launch schedule would have been impacted.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 287,
+    "question": "What was the pressure rise rate of helium during the normal heat-leak test during the countdown demonstration?",
+    "answer": "7.9 psi/hour",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 287,
+    "question": "At what pressure did the helium tank burst during the lunar landing mission?",
+    "answer": "1937 psia",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 288,
+    "question": "What was the normal rise rate of the helium tank during the countdown demonstration test?",
+    "answer": "7.9 psi/hour",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 288,
+    "question": "What was the likely cause of the anomaly in the helium tank's pressure rise rate?",
+    "answer": "Tank-insulation degradation due to the introduction of a contaminant (probably hydrogen)",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 289,
+    "question": "What was the expected prelaunch-standby rise rate of the pressure?",
+    "answer": "7.8 psi/hour",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 289,
+    "question": "What was the likely cause of the anomaly in the helium tank's pressure rise rate?",
+    "answer": "Tank-insulation degradation due to the introduction of a contaminant, likely hydrogen",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 290,
+    "question": "What was the likely cause of the anomaly in the helium tank pressure rise rate?",
+    "answer": "A tank-insulation degradation due to a contaminant (probably hydrogen) in extremely small concentrations.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 290,
+    "question": "What was the purpose of the screening test devised for future flight tanks?",
+    "answer": "To determine the pressure rise rate for a wide range of helium temperatures.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 291,
+    "question": "What was the purpose of the screening test devised for all future flight tanks?",
+    "answer": "To determine the pressure rise rate for a wide range of helium temperatures from approximately $9^{\\circ}$ to $\\bar{\\mathsf{1}}\\bar{2}\\bar{3}^{\\circ}$ R.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 291,
+    "question": "What caused the thumping noise and snowflakes venting from quadrant 4 of the lunar module descent stage?",
+    "answer": "A momentary short circuit existed in the Lunar-Module-Pilot side of the dc electrical system.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 292,
+    "question": "What was the purpose of the screening test devised for future flight tanks?",
+    "answer": "To determine the pressure rise rate for a wide range of helium temperatures.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 292,
+    "question": "What was the cause of the thumping noise and snowflakes venting from the lunar module descent stage?",
+    "answer": "A momentary short circuit in the Lunar-Module-Pilot side of the dc electrical system.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 293,
+    "question": "What was the probable cause of the thumping noise and snowflakes venting from the lunar module descent stage?",
+    "answer": "A momentary short circuit in the Lunar-Module-Pilot side of the dc electrical system.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 293,
+    "question": "What could be the result of electrolyte leaking from one or more cells in battery 2?",
+    "answer": "Water electrolysis and subsequent ignition of the hydrogen and oxygen so generated.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 294,
+    "question": "What could have caused the current surge in battery 2 during the mission?",
+    "answer": "A reverse current into the battery.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 294,
+    "question": "What could be the probable condition that led to the malfunction of battery 2?",
+    "answer": "Electrolyte leaking from one or more cells and bridging the high-voltage or low-voltage terminal to the battery case.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 295,
+    "question": "What is the probable condition that caused the electrical fault in battery 2?",
+    "answer": "Electrolyte leaking from one or more cells and bridging the high-voltage or low-voltage terminal to the battery case.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 295,
+    "question": "What is one of the modifications being made to the descent batteries to prevent electrolyte bridging?",
+    "answer": "Coating the inside of the battery case with epoxy paint before the battery is assembled.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 296,
+    "question": "What is the primary reason for modifying the descent batteries for Apollo 14 and subsequent missions?",
+    "answer": "To minimize the hazards associated with electrolyte leakage.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 296,
+    "question": "What was the preliminary result of tests to determine if the quantity of free electrolyte in each cell could be reduced?",
+    "answer": "A reduction of from 360 to 340 cc per cell is possible.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 297,
+    "question": "What corrective action will be applied to the lunar module ascent batteries and a new battery to be installed in subsequent service modules?",
+    "answer": "The same corrective action applied to the descent battery.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 297,
+    "question": "What was the possible cause of the malfunction in the Descent Battery 2?",
+    "answer": "Overcurrent, reverse-current condition, overtemperature condition, or possibly an erroneous indication.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 298,
+    "question": "What was the reason for the flickering of the malfunction light in the Descent Battery 2 situation?",
+    "answer": "The flickering of the malfunction light was due to a short between the temperature switch wires to ground or contamination in the auxiliary relay.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 298,
+    "question": "What type of corrective action was taken to prevent electrolyte shorts in the Descent Battery 2 situation?",
+    "answer": "Corrective action was taken to prevent electrolyte shorts associated with the previously discussed battery anomaly.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 299,
+    "question": "What is the reason for the flickering light after the battery was replaced on the bus?",
+    "answer": "A flickering light cannot be caused by the temperature sensing switch because of a temperature hysteresis of approximately $_{20}\\circ$ F in the switch.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 299,
+    "question": "What is the possible cause of the shutoff valve leak in the ascent stage oxygen tank 2?",
+    "answer": "The internal portion of three valves of this type had been replaced previously on the spacecraft because of excessive leakage through the ascent oxygen tank l shutoff valve.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 300,
+    "question": "What could have caused the shorted condition in the temperature switch wires?",
+    "answer": "Either a short between the temperature switch wires to ground or a contamination in the auxiliary relay.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 300,
+    "question": "What was the recommended compression range for the O-ring in the valve design?",
+    "answer": "between 0.0115 and 0.0225 inch",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 301,
+    "question": "What was the cause of the leakage in one of the ascent oxygen tank shutoff valves that had been previously replaced?",
+    "answer": "A rolled O-ring caused the leakage.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 301,
+    "question": "What was the recommended compression range for the O-ring by the supplier?",
+    "answer": "0.011 to 0.017 inch.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 302,
+    "question": "What was the cause of the leakage in the valves in the Apollo 13 spacecraft?",
+    "answer": "The forward O-ring could be rolled and damaged when it passed the manifold port during installation.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 302,
+    "question": "What was done to prevent the cracking of the window shades in future vehicles?",
+    "answer": "The Aclar will be fabricated from a more ductile material and reinforced with Mylar tape.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 303,
+    "question": "What was the cause of the cracking in the window shades on the Apollo 13 mission?",
+    "answer": "Cracking as a result of Aclar embrittlement.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 303,
+    "question": "How will the interval timer set knob be secured for future flights?",
+    "answer": "With a roll pin.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 304,
+    "question": "What modification was made to the Aclar supplier's heating and quenching process?",
+    "answer": "The Aclar supplier's heating and quenching process was modified to provide material with an elongation in excess of 25 percent.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 304,
+    "question": "Why was the bumper of the 16-mm camera swaged for future missions?",
+    "answer": "To provide an interference fit with the internal surface threads of the 10-mm lens assembly.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 305,
+    "question": "What was the reason for the failure of the interval timer set knob?",
+    "answer": "The special gripping compound used to secure the set screw did not provide a strong enough retention force.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 305,
+    "question": "What change was made to the nasal spray bottles to improve their operation?",
+    "answer": "A piece of cotton was inserted in the 9-cc bottle to hold the 3 cc of medication.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 306,
+    "question": "What was the cause of the total loss of primary oxygen in the service module during the Apollo 13 mission?",
+    "answer": "An incompatibility between switch design and preflight procedures, combined with an abnormal preflight detanking procedure.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 306,
+    "question": "What was the alternative packaging method used for medical kits in future flights?",
+    "answer": "Nose drops packaged the same as eye drops.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 307,
+    "question": "What was the reason for the Apollo 13 mission being aborted?",
+    "answer": "The total loss of primary oxygen in the service module due to an incompatibility between switch design and preflight procedures.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 307,
+    "question": "What was proven for the first time during the Apollo 13 mission?",
+    "answer": "The concept of a backup crew.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 308,
+    "question": "What was the reason for the mission being aborted?",
+    "answer": "The total loss of primary oxygen in the service module due to an incompatibility between switch design and preflight procedures.",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 308,
+    "question": "What was proven for the first time 3 days prior to the flight?",
+    "answer": "The concept of a backup crew.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 309,
+    "question": "What changes were made to the command module's docking tunnel?",
+    "answer": "The structure in the forward end of the docking tunnel was reinforced to accommodate the expected higher parachute loads due to the increased weight of the command module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 309,
+    "question": "What was the purpose of the detachable filter provided for the cabin heat exchanger exhaust?",
+    "answer": "To assist in collection of free lunar dust after crew transfer from the lunar module.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 310,
+    "question": "What was the purpose of changing the timing signal in the sequential system?",
+    "answer": "To minimize the effects of fuel slosh and to improve service-module separation characteristics.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 310,
+    "question": "What was the resolution of the photographs taken by the lunar topographic camera?",
+    "answer": "Approximately 12 feet.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 311,
+    "question": "What was the purpose of changing the timing signal that disables the roll engines during service module separation?",
+    "answer": "To minimize the effects of fuel slosh and to improve service-module separation characteristics.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 311,
+    "question": "What was the purpose of the detachable filter provided for the cabin heat exchanger exhaust?",
+    "answer": "To assist in collection of free lunar dust after crew transfer from the lunar module.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 312,
+    "question": "What was the resolution of the photographs taken by the lunar topographic camera?",
+    "answer": "Approximately 12 feet",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 312,
+    "question": "What was changed to simplify the deployment operation of the D-ring handle?",
+    "answer": "A looped cable",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 313,
+    "question": "What modification was made to the thermal insulation for the landing gear?",
+    "answer": "The thermal insulation for the landing gear was modified to reduce the total insulation weight by 27.2 pounds.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 313,
+    "question": "What was added to the inlet of the cabin fan to reduce the amount of free lunar dust in the cabin?",
+    "answer": "A dust filter was incorporated at the inlet of the cabin fan.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 314,
+    "question": "What modification was made to the thermal insulation for the landing gear?",
+    "answer": "The total insulation weight was reduced by 27.2 pounds.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 314,
+    "question": "What was added to the inlet of the cabin fan to reduce the amount of free lunar dust in the cabin?",
+    "answer": "A dust filter.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 315,
+    "question": "What modification was made to the water separator drain tank sensing point?",
+    "answer": "It was changed from the location of the carbon dioxide sensor to a point upstream of the suit fans.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 315,
+    "question": "What material was changed for the bristles on the vacuum brush?",
+    "answer": "Nylon",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 316,
+    "question": "What modification was made to the pressure garment assembly to prevent wear of the thermal/meteoroid garment?",
+    "answer": "Scuff patches were added.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 316,
+    "question": "What was added to the neck area of the pressure suit to provide drinking water to the crewmen during extravehicular activity?",
+    "answer": "A device.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 317,
+    "question": "What was added to the pressure suit of the extravehicular mobility unit to provide drinking water to the crewmen during extravehicular activity?",
+    "answer": "A device in the neck area of the pressure suit",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 317,
+    "question": "What was the purpose of the heat flow experiment on the lunar surface?",
+    "answer": "To measure the thermal gradient of the upper 3 meters of the lunar crust and the thermal conductivity of the lunar surface materials",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 318,
+    "question": "What was deleted from the Apollo 13 lunar surface experiment package compared to Apollo 12?",
+    "answer": "Solar wind spectrometer, magnetometer, and suprathermal ion detector.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 318,
+    "question": "What was added to the Apollo 13 lunar surface experiment package?",
+    "answer": "Heat flow experiment and a charged particle environment detector.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 319,
+    "question": "What was the purpose of the charged particle lunar environment experiment?",
+    "answer": "To measure the energy of protons and electrons in the energy range of 40 to 70 electron volts.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 319,
+    "question": "What was used as insulation in the S-Il stage of the launch vehicle?",
+    "answer": "Spray foam",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 320,
+    "question": "What was the purpose of the charged particle lunar environment experiment?",
+    "answer": "To measure the energy of protons and electrons in the energy range of 40 to 70 electron volts.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 320,
+    "question": "What was used as insulation in the S-Il stage of the launch vehicle?",
+    "answer": "Spray foam",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 321,
+    "question": "What type of insulation was used exclusively in the S-Il stage to reduce weight?",
+    "answer": "Spray foam",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 321,
+    "question": "Where were telemetry measurements in the inertial platform relocated to provide a more complete analysis of platform vibrations?",
+    "answer": "In some cases, they were relocated to provide a more complete analysis of platform vibrations.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 322,
+    "question": "What was the weight of the spacecraft at lift-off?",
+    "answer": "110 lb",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 322,
+    "question": "What was the center of gravity of the spacecraft in Earth orbit insertion?",
+    "answer": "261.2 in.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 323,
+    "question": "What is the moment of inertia of the Command&servicemodule?",
+    "answer": "847.4",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 323,
+    "question": "What is the product of inertia of the Transearth injection?",
+    "answer": "431285",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 324,
+    "question": "What was the lunar module's velocity before separation from the command module?",
+    "answer": "109.7 km/s",
+    "difficulty": "hard"
+  },
+  {
+    "chunk_id": 324,
+    "question": "In what location was the command and service module (cSM 109) first checked out?",
+    "answer": "Downey, California",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 325,
+    "question": "What was the location where the command module arrived after reaction control system deactivation and pyrotechnic safing in Hawaii?",
+    "answer": "Downey, California",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 325,
+    "question": "What was the purpose of the postflight testing and inspection of the command module?",
+    "answer": "Evaluation of the inflight performance and investigation of the flight irregularities",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 326,
+    "question": "What was the purpose of postflight testing of the command module?",
+    "answer": "Evaluation of the inflight performance and investigation of the flight irregularities.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 326,
+    "question": "Where did the command module arrive after reaction control system deactivation and pyrotechnic safing?",
+    "answer": "Downey, California.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 327,
+    "question": "What was the purpose of test 109007?",
+    "answer": "To determine contaminants present or damage incurred in the 90 psi system.",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 327,
+    "question": "Why was test 109015 unable to be performed?",
+    "answer": "Due to salt water contamination.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 328,
+    "question": "What was the purpose of test 109007?",
+    "answer": "To determine contaminants present or damage incurred in 900 psi system",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 328,
+    "question": "What was the cause of the failure of the postlanding ventilation valve to cycle open?",
+    "answer": "Unknown, as the test was not complete",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 329,
+    "question": "What is the reason for the inability to perform tests on the optical unit due to the issue mentioned in the text?",
+    "answer": "sslt water contamination",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 329,
+    "question": "Where should additional information regarding data availability be consulted for the mission data?",
+    "answer": "The Central Metric Data File, building 12, MSC",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 330,
+    "question": "What is the purpose of Tables D-I and D-II in the given text?",
+    "answer": "They are summaries of the data made available for systems performance analyses and anomaly investigations.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 330,
+    "question": "What is the Central Metric Data File, building l2, MSC, used for?",
+    "answer": "It should be consulted for additional information regarding data availability.",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 331,
+    "question": "What is the range of time covered in the table?",
+    "answer": "00:00 to 142:38",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 331,
+    "question": "What type of reports are listed in Table E-I?",
+    "answer": "Supplemental reports for the Apollo 7 through Apollo 13 mission reports",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 332,
+    "question": "What is the publication date of the \"Reaction Control System Performance\" report for the Apollo 7 mission?",
+    "answer": "August 1969",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 332,
+    "question": "What is the title of the first supplemental report for the Apollo 8 mission?",
+    "answer": "Trajectory Reconstruction and Analysis",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 333,
+    "question": "What was the publication status of the report titled \"Reaction Control System Performance\" for the Apollo 8 mission?",
+    "answer": "Cancelled",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 333,
+    "question": "What was the publication date of the report titled \"Trajectory Reconstruction and Analysis\" for the Apollo 7 mission?",
+    "answer": "May 1969",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 334,
+    "question": "What was the publication status of the report \"Reaction Control System Performance\"?",
+    "answer": "Cancelled",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 334,
+    "question": "In which month was the \"Performance of Command and Service Module\" report published?",
+    "answer": "March",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 335,
+    "question": "What was the title of the first supplement for Apollo 10?",
+    "answer": "Trajectory Reconstruction and Analysis Guidance, Navigation, and Control System",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 335,
+    "question": "What was the publication status of the report \"Analysis of Apollo lo Photography and Visual Observations\"?",
+    "answer": "In publication",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 336,
+    "question": "What was the title of the first supplement for Apollo 10?",
+    "answer": "Trajectory Reconstruction and Analysis Guidance, Navigation, and Control System",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 336,
+    "question": "In what year was the report \"Analysis of Apollo 12 Lightning Incident\" published?",
+    "answer": "February 1970",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 337,
+    "question": "What was the title of the report about the Apollo 12 trajectory reconstruction and analysis?",
+    "answer": "Apollo 12 Trajectory Reconstruction and Analysis",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 337,
+    "question": "What was the date of the publication of the Military Standardization Handbook?",
+    "answer": "1962",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 338,
+    "question": "What was the name of the handbook on optical design published by the Defense Supply Agency in 1962?",
+    "answer": "Military Standardization Handbook_ Optical Design, MIL HDBK-14l",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 338,
+    "question": "What was the launch date of the Apollo 4 spacecraft?",
+    "answer": "November 9, 1967",
+    "difficulty": "easy"
+  },
+  {
+    "chunk_id": 339,
+    "question": "What was the first manned lunar orbital flight?",
+    "answer": "Apollo 8",
+    "difficulty": "medium"
+  },
+  {
+    "chunk_id": 339,
+    "question": "On what date was the first lunar landing?",
+    "answer": "July 16, 1969",
+    "difficulty": "easy"
+  }
+]
