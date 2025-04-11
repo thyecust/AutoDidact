@@ -10,7 +10,7 @@ import asyncio
 from typing import List, Tuple, Optional, Union, Dict, Any
 from enum import Enum
 from pydantic import BaseModel
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from datasets import Dataset
 from embeddings import CustomHuggingFaceEmbeddings
 

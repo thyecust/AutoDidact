@@ -19,13 +19,14 @@ from typing import List, Tuple, Optional, Dict
 
 # ========= Part 1: Document Processing and Embedding Generation =========
 
+from unsloth import FastLanguageModel
 # Load and split the markdown document using LangChain
-from langchain.document_loaders import UnstructuredMarkdownLoader
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from embeddings import CustomHuggingFaceEmbeddings
-
-
+import sys
+print(sys.version)
 
 # Load your markdown file (adjust the path as needed)
 loader = UnstructuredMarkdownLoader("./data/mission_report.md")
@@ -51,13 +52,12 @@ print("Saved FAISS index to 'faiss_index'")
 # ========= Part 2: QA Generation using Llama Backend =========
 
 # Setup Llama backend via unsloth and vLLM
-from unsloth import FastLanguageModel
 from vllm import SamplingParams
-import rl_helpers  # Ensure you have this or remove if not used
+# import rl_helpers  # Ensure you have this or remove if not used
 
 # Load the Llama model (adjust parameters as needed)
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name="meta-llama/meta-Llama-3.1-8B-Instruct",
+    model_name="/home/tianhaoyu/.cache/modelscope/hub/models/LLM-Research/Meta-Llama-3.1-8B-Instruct",
     max_seq_length=4096,
     load_in_4bit=True,       # Use 4-bit quantization if desired
     fast_inference=True,      # Enable fast inference
