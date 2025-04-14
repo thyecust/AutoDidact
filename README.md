@@ -1,4 +1,20 @@
-# **AutoDidact: Bootstrapping Search Through Self-Verification**
+# AutoDidact: 一个LLM RL的例子
+
+这个仓库fork自https://github.com/dCaples/AutoDidact，是一个RL的例子。
+
+```bash
+# 安装依赖，注意这不是原仓库提供的依赖
+$ pip install -r req.txt
+# 生成faiss_index和saved_data，如果你不想生成也可以用我提供的
+$ python3 generate_data.py
+# 装一个模型，在embeddings.py中用以计算嵌入
+$ huggingface-cli download avsolatorio/NoInstruct-small-Embedding-v0
+# 装我们要训练的模型，我的实验结果是8B模型只有255的上下文，根本不能训练，所以换成了3B的模型
+$ modelscope download LLM-Research/Llama-3.2-3B-Instruct
+# 运行myexperiment.ipynb
+```
+
+## **AutoDidact: Bootstrapping Search Through Self-Verification**
 
 **Research exploring how small LLMs can autonomously enhance their own research and reasoning capabilities by generating, researching, and answering self-created question-answer pairs, learning agentic search via reinforcement learning. All running on a single RTX 4090!**
 
